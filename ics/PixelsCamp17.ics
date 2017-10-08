@@ -1,0 +1,2796 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pixels Camp 2017
+X-WR-TIMEZONE:Europe/Lisbon
+X-WR-CALDESC:Calendar for Pixels Camp 2017
+BEGIN:VEVENT
+DTSTART:20170929T200000Z
+DTEND:20170929T210000Z
+DTSTAMP:20171008T181001Z
+UID:C062D6AA-6A62-4850-BE27-89D17CD276B4
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/intro-to-neo4j_joa
+ o-pina.md
+CREATED:20170926T091441Z
+DESCRIPTION:Neo4j is a graph database management system described by its de
+ velopers as an ACID-compliant transactional database with native graph stor
+ age and processing.\n\nHave you ever heard of it? Some big players like Cis
+ co\, NASA or Airbnb are already using this technology.\n\nOn this talk I'm 
+ going to show you some Neo4j basics\, use cases and also how MeshApp is usi
+ ng it to develop an awesome product.\n\n[speaker: João Pina\, https://pixel
+ s.camp/tomahock]\n[language: English]
+LAST-MODIFIED:20170929T143543Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intro to Neo4j\, Graph Databases and MeshApp use case
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T190000Z
+DTEND:20170929T200000Z
+DTSTAMP:20171008T181001Z
+UID:508B7DD7-53B3-46BA-825C-E2DA9060838F
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/changing-mindset-w
+ ith-lean-and-test-automation_thiago-marques-pereira.md
+CREATED:20170927T151045Z
+DESCRIPTION:Today the companies are more attentive with costs of a technolo
+ gy team and the lean process and test automation are ways of reduce the cos
+ ts because the product can reach the zero bug with techiniques of problems 
+ antecipation and avoid waste on the new features.\n\nThe objective of talk 
+ is presented techiniques about Lean Process and how to achieve excellence w
+ ith problems antecipates and delivery value and how to use automation with 
+ cucumber for to have this with the purpose of achieving zero bug in new fea
+ tures.\n\nI will realize live code for demonstration and how to conect in a
+  CI tool for achieve the feedback for quickly every deploy.\n\n[speaker: Th
+ iago Marques Pereira\, https://pixels.camp/thiagomarquessp]\n[language: Por
+ tuguese]
+LAST-MODIFIED:20170929T141840Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Changing Mindset with Lean and Test Automation
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T190000Z
+DTEND:20170928T210000Z
+DTSTAMP:20171008T181001Z
+UID:35971FB4-49C1-4F24-82DA-32C20E52593C
+CREATED:20170712T180832Z
+DESCRIPTION:Imagine two players\, side by side\, playing a classic arcade g
+ ame\, using professional arcade controllers\, fighting for the best score\,
+  only to keep climbing their way into the great final.\n\nPre-finals start 
+ at 8pm\n\nFinals start at 9pm.\n\n[speaker: Paulo Laureano\, http://pls.mrn
+ et.pt/]\n[language: English]
+LAST-MODIFIED:20170928T143631Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chasing Ghosts Challenge
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T190000Z
+DTEND:20170928T200000Z
+DTSTAMP:20171008T181001Z
+UID:F45CD232-E273-4DAA-B3A7-E91C1B84F963
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/how-to-develop-on-
+ ethereum_stephane-roche.md
+CREATED:20170928T141900Z
+DESCRIPTION:Stephane is an Ethereum developer\, consultant at Chainsmiths\,
+  with a background in web development.\n\nHe has been working on Ethereum f
+ or the last 3 years\, at application level\, specifically in Solidity and J
+ avascript.\n\nA presentation of the tools the developer should master\, and
+  the process from local development to mainnet.\n\nThis talk is geared towa
+ rds the people looking to work on a blockchain project for the hackathon\, 
+ including very beginners.\n\n[speaker: Stephane Roche\, https://www.linkedi
+ n.com/in/stephane-roche/]\n[language: English]
+LAST-MODIFIED:20170928T141944Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How to develop on Ethereum
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T140000Z
+DTEND:20170929T150000Z
+DTSTAMP:20171008T181001Z
+UID:592F8936-F57B-46CC-A4AB-A2DD49460FDD
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/gg-matlab-projects
+ -galp_susana-fernandes.md
+CREATED:20170926T094744Z
+DESCRIPTION:Software’s developed for Oil and Gas industry\, specially in th
+ e areas of Geosciences\, are very complete. Although\, the need to generate
+  our own software is present for reasons such as:\n\nCosts reduction since 
+ software packages are very expensive\nFulfill the needs and strategy of the
+  Company\nCreate user-oriented tools\nGenerate our own software increases s
+ ynergies between Geosciences professionals.\nGeosolutions team started usin
+ g Matlab software to develop some requested standalones. These cover a broa
+ d spectrum of topics\, spanning from geology\, geophysics\, petrophysics an
+ d geochemistry.\n\nDue to the large amount of data that E&P departments reg
+ ularly use and also the annual cost and portability problems of Matlab\, we
+  are considering to migrate to Python.\n\n[speaker: Susana Fernandes\, http
+ s://www.linkedin.com/in/susana-fernandes-39658a87/]\n[language: English]
+LAST-MODIFIED:20170927T154701Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:G&G Matlab Projects in Galp
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T100000Z
+DTEND:20170929T110000Z
+DTSTAMP:20171008T181001Z
+UID:7B396DA8-D0E6-41CC-8B56-D799B348FFE3
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/devops-kungfu_jorg
+ e-palma.md
+CREATED:20170926T144848Z
+DESCRIPTION:DevOps & Containerization are red hot topics today but despite 
+ tremendous advances in container management\, orchestration\, and DevOps to
+ oling it can still be frustrating to move source code from prototyping thro
+ ugh to production. In this session\, we explore the latest in open source c
+ ontainer development\, with a specific emphasis on Docker\, Kubernetes\, Je
+ nkins and Terraform.\n\n[speaker: Jorge Palma\, https://www.linkedin.com/in
+ /jpalma21/]\n[language: English]
+LAST-MODIFIED:20170927T153258Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DevOps KungFu: Modernize your flow with Azure\, Jenkins\, Terraform
+  and Kubernetes
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T090000Z
+DTEND:20170929T100000Z
+DTSTAMP:20171008T181001Z
+UID:10213997-DEAB-43FF-9FC6-1D747031E0EF
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/cirurgia-robotica_
+ carlos-vaz.md
+CREATED:20170923T162855Z
+DESCRIPTION:A cirurgia robótica atual é a entrada da tecnologia digital na 
+ prática cirúrgica: a interposição de um interface digital (um “computador”)
+ \, entre o cirurgião e o doente. Esta evolução\, ainda que embrionária\, já
+  permite uma variedade de novas funcionalidades que aumentam a segurança e\
+ , até\, a exequibilidade de procedimentos cirúrgicos complexos por via mini
+ mamente invasiva.\n\nMas a entrada do digital na cirurgia\, como aconteceu 
+ em todas as outras áreas nas quais a tecnologia digital já entrou e amadure
+ ceu (que\, na verdade\, são quase todas)\, abre um campo quase infinito de 
+ inovação e possibilidades.\n\n[speaker: Carlos Vaz\, https://www.linkedin.c
+ om/in/carlos-vaz-392096a2/]\n[language: Portuguese]
+LAST-MODIFIED:20170927T152137Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cirurgia Robótica: conceito\; presente e futuro.
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T090000Z
+DTEND:20170929T100000Z
+DTSTAMP:20171008T181001Z
+UID:926B978C-A45A-49EF-BE7B-7C2D0AAD3B2B
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/adopting-ddd_migue
+ l-alpendre.md
+CREATED:20170927T152047Z
+DESCRIPTION:\nBureaucracy\, unclarity and technical debt are just some of m
+ any obstacles teams face when making product development. Developers need t
+ o be challenged to solve real problems\, that’s how we are motivated.\n\nDo
+ main-driven design is a philosophy described by Eric Evans that tackles tho
+ se concerns effectively and helps to engage team members at their full capa
+ bilities. By defining domain models that project realities in bounded conte
+ xts\, developers can elaborate clear perceptions of the business. Therefore
+ \, domain problems are identified in advance and real value is added to the
+  product.\n\nIt’s been an amazing journey since we adopted DDD\, almost one
+  year ago. I will talk about its inner concepts\, our progress as a team an
+ d what we plan to achieve.\n\n[speaker: Miguel Alpendre\, https://pixels.ca
+ mp/m-alp]\n[language: English]
+LAST-MODIFIED:20170927T152047Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Adopting DDD
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T190000Z
+DTEND:20170929T200000Z
+DTSTAMP:20171008T181001Z
+UID:A886796C-D546-4216-AF86-E139A5F92C88
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/how-revolut-leads-
+ crypto_val-scholz.md
+CREATED:20170925T000552Z
+DESCRIPTION:Since inception\, we at Revolut have strove to remain ahead of 
+ the curve by providing a simple\, fast and transparent platform to manage y
+ our finances. Digital currencies are no different — we’ve seen huge demand 
+ from our users and wanted to reduce the barrier to entry by providing seaml
+ ess exchange between fiat and cryptocurrency exposure from right within our
+  app. Our focus was to provide a service which is simple\, fast and secure 
+ — complementing our current platform. Allowing our users to gain instant ex
+ posure to some of the most popular cryptocurrencies.\n\n[speaker: Val Schol
+ z\, https://www.linkedin.com/in/val-scholz-0b5bb236/]\n[language: English]
+LAST-MODIFIED:20170927T151136Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How Revolut are leading the way with cryptocurrencies
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T190000Z
+DTEND:20170928T200000Z
+DTSTAMP:20171008T181001Z
+UID:16E758BD-9A08-4B2D-8173-5903443710F8
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/agile-is-dead_pedr
+ o-gustavo-torres.md
+CREATED:20170925T121915Z
+DESCRIPTION:Scrum is today the most adopted Agile practice in the world. Si
+ nce it was introduced to the world in 1995 in the Oopsla conference at Aust
+ in\, Texas\, in the USA\, by Jeff Sutherland and Ken Schwaber\, Scrum chang
+ ed the way the majority of the organisations develop software. Organisation
+ s\, courses\, trainers\, certifications and adoption success case studies e
+ merged since then... but what's missing? Are all companies successfully ado
+ pting Agile & Scrum? Are the certifications enough to create certified / pr
+ ofessionals in Scrum? How about Agile transitions? How peaceful are they? D
+ o all developers love Scrum? Is Agile working for the software development?
+  You will be exposed to the naked truth about the current status of Agile &
+  Scrum\, their ecosystems and last but not least to philosophical reflectio
+ ns about human nature. For the brave ones\, see you on the other side!\n\n[
+ speaker: Pedro Gustavo Torres\, https://pixels.camp/pedrogustavotorres]\n[l
+ anguage: English]
+LAST-MODIFIED:20170926T153820Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Agile is Dead
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T160000Z
+DTEND:20170928T170000Z
+DTSTAMP:20171008T181001Z
+UID:48562538-646A-46C5-AA80-04DA9FC0C833
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/history-of-blockch
+ ain_kevin-loaec.md
+CREATED:20170926T152659Z
+DESCRIPTION:A talk about the history of "blockchain"\, how we ended up in c
+ ommunities so split we don't even know each other.\n\nOn one side\, people 
+ who care about freedom\, on the other people who care about innovation.\n\n
+ [speaker: Kevin Loaec\, https://www.linkedin.com/in/kevinloaec/]\n[language
+ : English]
+LAST-MODIFIED:20170926T152826Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bitcoin or "blockchain"\, What's The Difference?
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T160000Z
+DTEND:20170928T170000Z
+DTSTAMP:20171008T181001Z
+UID:A1F85715-47E7-4D04-B9A6-C61D49B12855
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/consumer-driven-co
+ ntracts_pedro-tavares.md
+CREATED:20170822T140753Z
+DESCRIPTION:In a monolithic application we don't need to worry about breaki
+ ng contracts between different services because the compiler will do that j
+ ob for us. If a given method signature changes\, the contract between share
+ d services is broken\, and the build will automatically fail.\n\nIn a micro
+ services application\, we have a whole new scenario where different service
+ s are deployed in different runtimes and don't know anything about each oth
+ ers. We don't have the compiler to detect those breaking changes and they b
+ ecame hard to detect. Usually\, they're found during end-to-end testing in 
+ a pre-production environment.\n\nWe need to ensure that when we deploy a ne
+ w service into production\, our changes won't break any consumer\; We can d
+ o this kind of testing without the need of a real consumer by using consume
+ r-driven contracts.\n\nIn this talk\, I will show you how to implement cons
+ umer-driven contracts and we'll move TDD to the level of software architect
+ ure.\n\n[speaker: Pedro Tavares\, https://pixels.camp/ordepdev]\n[language:
+  English]
+LAST-MODIFIED:20170926T152655Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Boost your confidence with Consumer-Driven Contracts
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T160000Z
+DTEND:20170928T170000Z
+DTSTAMP:20171008T181001Z
+UID:896FC98E-45B4-47A1-ACD4-5D56BF54781E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/automated-evil-dri
+ ven-development_sergio-serrano_valmiky-arquissandas.md
+CREATED:20170910T193046Z
+DESCRIPTION:We will be speaking about behavior driven development\, the cre
+ ation of evil user stories\, definition of security baselines and how we ca
+ n embed them in the CI/CD pipelines. We will present security tools that ca
+ n help us do it\, explain their pros/cons\, how we can create security test
+ s with those tools and how we can integrate them with the CI/CD pipelines i
+ n an automated way.\n\nThe goal of the talk is to enable developers to crea
+ te products with security in mind\, using an organic and low friction appro
+ ach between traditionally orthogonal incentives. To achieve this\, the deve
+ loper and the security guy should work as a true team. We will go through c
+ ommon methodologies/tools that bring together developers and security peopl
+ e\, to allow them to work as a healthy team that shares the same goal: Crea
+ te a successful product.\n\n[speaker: Sérgio Serrano\, https://pixels.camp/
+ serranos]\n[speaker: Valmiky Arquissandas\, https://pixels.camp/kayvlim]\n[
+ language: English]
+LAST-MODIFIED:20170926T152645Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Automated Evil Driven Development
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T170000Z
+DTEND:20170928T180000Z
+DTSTAMP:20171008T181001Z
+UID:EDB9FC33-4291-4068-A3FA-8DA9274FCAA0
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/automating-infrast
+ ructure-playing-factorio-on-aws_ricardo-marques.md
+CREATED:20170822T141243Z
+DESCRIPTION:An engineer starts playing a new game... and then... birds chir
+ ping!\nThat's what happens with Factorio. It is the game for all those code
+  makers. Automate all you can!\n\nQuoting Wikipedia:\n\nThe game follows th
+ e story of a spaceman who crash landed on an alien planet. As the only surv
+ ivor\, he has to harvest his resources by hand in order to build up an indu
+ strial infrastructure to eventually build a rocket and send a satellite to 
+ space\, while facing inhabitants of the planet who defend their native envi
+ ronment from the pollution and destruction by the player.\nSome words sound
+  familiar!? That's right!\n\nThis talk will cover how you can deploy a Fact
+ orio server to AWS in an affordable and yet scalable way (so you can play l
+ ong nights with as many friends as you want).\n\nIt will explore common Inf
+ rastructure as Code tools like Ansible\, Packer\, Terraform as well as AWS 
+ specific products like EC2 Spot Instances\, Lambda and API Gateway.\n\n[spe
+ aker: Ricardo Marques\, https://pixels.camp/RCM7]\n[language: English]
+LAST-MODIFIED:20170926T152439Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Automating infrastructure: playing factorio on AWS
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T190000Z
+DTEND:20170928T200000Z
+DTSTAMP:20171008T181001Z
+UID:03DF177B-16AE-4B02-8DF3-DCB22B453163
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/low-power-radio-wl
+ an-lora-sigfox_jose-marcelino.md
+CREATED:20170919T112159Z
+DESCRIPTION:Learn how low cost\, low power but long range radio technologie
+ s are linking the Internet of Things. We’ll start with a quick introduction
+  on LoRa\, Sigfox and NB-IoT and how to use these radio protocols - along w
+ ith MQTT - to connect sensors to the web and beyond.\n\nGet hands-on experi
+ ence using MicroPython to easily develop embedded applications using these 
+ radio technologies on the LoPy and SiPy boards from Pycom (kits will be pro
+ vided for the workshop*)\n\n[speaker: José Gabriel Marcelino\, https://pixe
+ ls.camp/jmarcelino]\n[language: English]
+LAST-MODIFIED:20170926T152404Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Low Power Radio WAN: LoRa and Sigfox
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T190000Z
+DTEND:20170929T200000Z
+DTSTAMP:20171008T181001Z
+UID:8F50A0CF-1A99-4EE0-B6DF-D5BA3F4B763C
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/digitalization-cyb
+ er-trenches_andre-cardoso.md
+CREATED:20170926T100245Z
+DESCRIPTION:Industry 4.0 is a name for the current trend of automation and 
+ data exchange in manufacturing technologies.\n\nThis talk will be all about
+  showing how SIEMENS faces the Digitalization and Industry 4.0 in a Cyber S
+ ecurity perspective.\n\nWho is on the other side of the cyber trench.\n\n[s
+ peaker: André Cardoso\, https://pixels.camp/alnc]\n[language: English]
+LAST-MODIFIED:20170926T145906Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Digitalization Cyber Trenches
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T100000Z
+DTEND:20170929T110000Z
+DTSTAMP:20171008T181001Z
+UID:3F5C69CF-F9CA-40E6-A392-1A66BBFBD2A9
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/sentiment-analysis
+ _helder-tack.md
+CREATED:20170911T151322Z
+DESCRIPTION:Our goal with Sentiment Analytics was to be able to extract mor
+ e value from social media - starting with the Siemens Social Network (SSN).
+  We wanted to understand how collaborators felt about our internal topics.\
+ n\nUsing Business Intelligence Tools\, SAP HANA and Qlikview\, will help us
+  identify positive\, negative and neutral texts\, extracting automatically 
+ sentiments with a unique combination of statistical modeling and rule-based
+  natural language processing techniques.\n\n[speaker: Helder Tack\, https:/
+ /www.linkedin.com/in/heldertack/]\n[language: English]
+LAST-MODIFIED:20170926T144932Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How Business Intelligence can identify Sentiment
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T190000Z
+DTEND:20170929T200000Z
+DTSTAMP:20171008T181001Z
+UID:7E8C84D7-D897-44F1-88F3-8FB693654831
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/js-wtf_tiago-ferre
+ ira.md
+CREATED:20170822T154809Z
+DESCRIPTION:All who have played with JavaScript have felt what R. Kelly bel
+ ieves to be flying.\n\nUnfortunately\, during these flights we can find som
+ e cold breezes that make us think "What the f*"*. Well\, in JavaScript\, th
+ ese WTFs are just the way it is. Sometimes you're flying just nice\, others
+  you're crashing cold.\n\nIn this talk we will see some of the JavaScript's
+  weirdest things and try to understand how and why they happen.\n\n[speaker
+ : Tiago Ferreira\, https://pixels.camp/ferreiratiago]\n[language: English]
+LAST-MODIFIED:20170926T110051Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JS WTF
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T200000Z
+DTEND:20170929T210000Z
+DTSTAMP:20171008T181001Z
+UID:AB380EC8-EC3A-4345-9287-A39BF24544F7
+CREATED:20170831T161353Z
+DESCRIPTION:Pixels Camp is all about challenges — mental\, physical\, and… 
+ culinary.\n\nYes\, you read that right. We have a grand tradition to uphold
+  where it regards spicy food competitions.\n\nOur gourmet chefs will prepar
+ e a four-course menu with plenty of liquid yoghurts to go around. And all y
+ ou have to do is eat\, taste\, and… last the course.
+LAST-MODIFIED:20170926T100419Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dragon's Breath
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T220000Z
+DTEND:20170929T230000Z
+DTSTAMP:20171008T181001Z
+UID:443547E9-1B12-4748-A45F-B43132B46653
+CREATED:20170712T180413Z
+DESCRIPTION:You get on stage\, you pick up the mike\, the spotlight is on y
+ ou\, the slides start rolling and you have to present them\, regardless of 
+ the fact that you’ve never seen them before and you have no idea what the p
+ resentation will be about\n\n[language: English]
+LAST-MODIFIED:20170926T100401Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Presentation Karaoke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T100000Z
+DTEND:20170929T110000Z
+DTSTAMP:20171008T181001Z
+UID:18B1AD66-70F8-454F-AC15-8EBABA67D722
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/how-to-hack-the-st
+ artup-world_ricardo-marvao.md
+CREATED:20170926T095849Z
+DESCRIPTION:Contrary to what you may believe\, there is a proven formula fo
+ r hacking the startup world. I call it "Living the Accelerated Life" and it
+ 's what the world’s best wannabepreneurs and experts in accelerator partici
+ pation have been using for the past years.\n\nI will show you how to hack t
+ his matrix\, but first you need to understand what the agents are doing…\n\
+ n[speaker: Ricardo Marvão\, https://www.linkedin.com/in/ricardomarvao/]\n[l
+ anguage: English]
+LAST-MODIFIED:20170926T095849Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How to hack the Startup World
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T150000Z
+DTEND:20170929T160000Z
+DTSTAMP:20171008T181001Z
+UID:5FB9BAD7-48B3-4D75-B3BF-16367D04CF0E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/breaking-front-end
+ -paradigms-with-vuejs_ignacio-anaya.md
+CREATED:20170825T111112Z
+DESCRIPTION:Vue.js is more consolidated than ever. According to JS Framewor
+ ks Benchmark\, it is one of the JavaScript frameworks with better performan
+ ce. Vue.js is the future of the client-side MV* world\, and is one of the m
+ ost promising alternatives\, competing with industry giants frameworks\, su
+ ch as React and Angular 2. We will review the core concepts of the framewor
+ k\, and demonstrate how you can scale progressively\, even when you have co
+ mplex requirements.\n\n[speaker: Ignacio Anaya\, https://pixels.camp/ianaya
+ 89]\n[language: English]
+LAST-MODIFIED:20170926T095836Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Breaking FrontEnd Paradigms with Vue.js
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T180000Z
+DTEND:20170929T190000Z
+DTSTAMP:20171008T181001Z
+UID:8F3B992F-CE33-4A93-91F1-AEA65CF3BC6B
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/quando-e-para-deci
+ dir-gaguejar_ricardo_paiagua.md
+CREATED:20170921T111410Z
+DESCRIPTION:Através de processos simples de criatividade conseguimos atingi
+ r objectivos únicos.\n\nEM 69 Minutos VAMOS FAZER ACONTECER!\n\nNegócio:\n\
+ n“Os números estabelecem a diferença entre o sucesso e a falência”\;\nHumor
+ :\n\nO Humor na Comunicação: Como criar? Como usar? Porquê?\;\nAtitude:\n\n
+ ”Não vale a pena falar\, o que importa é fazer!”\;\nNo fim deste workshop d
+ e 69 minutos\, todos os participantes vão ter novas capacidades para:\n\nCr
+ iação de novas metodologias ágeis para a implementação de conceitos de it e
+  marketing\, ou mesmo uma nova empresa\;\nRejuvenescimento de Quadros inter
+ nos/Consumidores\;\nImplementaçáo de uma estratégia de conteúdos\;\nAtitude
+ \;\n\n[speaker: Ricardo Paiágua\, https://www.facebook.com/ricardo.paiagua]
+ \n[language: English]
+LAST-MODIFIED:20170926T094608Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Quando é para decidir não se pode gaguejar
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T180000Z
+DTEND:20170929T190000Z
+DTSTAMP:20171008T181001Z
+UID:6BB36184-AF04-4A43-B771-13D961E52F23
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/building-qa-proces
+ s_tiago-correia.md
+CREATED:20170823T110259Z
+DESCRIPTION:When I arrived Talkdesk in October 2016 I found a company with 
+ 60 engineers splitted in scrum teams and there were only 2 functional teste
+ rs. The testers had a very good knowledge about the product but they were n
+ ot part of any team and were working in firefighter mode. At the time we di
+ dn’t have any QA process nor a Test Management Tool.\n\nOn one side\, I wil
+ l show the path we went through from the moment I joined the company until 
+ now\, focusing on the challenges that came across and how we overcome them.
+ \n\nWith this presentation I want to emphasise the importance for a company
+  to have a QA process and also receive feedback and inputs on the challengi
+ ng path we have ahead.\n\n[speaker: Tiago Correia\, https://pixels.camp/tia
+ gojcorreia]\n[language: English]
+LAST-MODIFIED:20170926T094552Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Building a QA process
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T190000Z
+DTEND:20170929T200000Z
+DTSTAMP:20171008T181001Z
+UID:6BE49A3B-6FBE-4267-A12B-5E278700B6B6
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/hey-ho-lets-go_ren
+ ato-suero.md
+CREATED:20170917T231557Z
+DESCRIPTION:An introduction to GO\, a language created by google. We’ll sta
+ rt by looking at the basic structure of code in GO\, its packages. After th
+ at we’ll go through conditional structures and repetitions\, collections\, 
+ structs\, functions\, methods and interfaces. Finally we’ll check concurren
+ cy\, tests and the gometalinter package\, which helps producing high qualit
+ y code.\n\nThis talk is mainly intended for programmers who have only basic
+  or even no knowledge of the language at all. The goal is to get people kno
+ w the language and to help figure out where and when they can use GO.\n\n[s
+ peaker: Renato Suero\, https://pixels.camp/renatosuero]\n[language: English
+ ]
+LAST-MODIFIED:20170926T094502Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hey ho\, let's GO!
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T180000Z
+DTEND:20170928T190000Z
+DTSTAMP:20171008T181001Z
+UID:2C7958E5-8C6E-4336-9082-A36FF7AEE3A0
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/porting-quest-of-d
+ ungeons_david-amador.md
+CREATED:20170921T003909Z
+DESCRIPTION:Quest of Dungeons started as a mobile game to be played in quic
+ k sessions\, but eventually made it's way to Steam and finally consoles.\n\
+ nThe game was ported to 10 different platforms\, this session will take you
+  through the process\, from the original idea up to the latest Nintendo Swi
+ tch version. It covers some of the core porting challenges: the custom engi
+ ne powering all the game\, maintaining abstraction across platforms\, UI an
+ d input challenges from the different versions. As well as some of the diff
+ erent hats a one man indie studio needs to wear.\n\n[speaker: David Amador\
+ , https://pixels.camp/DJLink]\n[language: English]
+LAST-MODIFIED:20170926T090104Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:From iOS to Desktops and Consoles: Porting Quest of Dungeons
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T180000Z
+DTEND:20170928T190000Z
+DTSTAMP:20171008T181001Z
+UID:39EFFCA5-A4C7-4D03-B349-189376AFCEDB
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/aiy-lets-talk_ulis
+ es_gascon_gonzalez.md
+CREATED:20170926T090003Z
+DESCRIPTION:Let’s play with Google AIY voice kit! We will see how it works 
+ and how to extended. You can create your own voice assistant\, as this proj
+ ect is very easy to hack.\n\n[speaker: Ulises Gascón González\, https://git
+ hub.com/UlisesGascon]\n[language: English]
+LAST-MODIFIED:20170926T090003Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AIY\, Let's talk! | How to create your own voice assistant in a lit
+ tle cardboard cube
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T130000Z
+DTEND:20170929T140000Z
+DTSTAMP:20171008T181001Z
+UID:95E62555-5641-4F75-A9D7-99485D10EC91
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/innovations-and-tr
+ ends-cloud_faerman-julio.md
+CREATED:20170926T084538Z
+DESCRIPTION:The accelerated pace of innovation in cloud computing is one of
+  its major benefits\, but also one of its challenges. The new features and 
+ services released every other day can remove a lot of undifferentiated heav
+ y lifting\, but also require continuous awareness and study.\n\nThis sessio
+ n presents the latest and greatest from Amazon Web Services in a practical 
+ presentation. We´ll dive into the technical details and how to build soluti
+ on leveraging the best of current and upcoming cloud technologies. We’ll ta
+ lk about infrastructure\, platforms\, applications and more\, including int
+ ernet of things\, big data and machine learning.\n\nJoin us and let us leve
+ rage the recent innovations in practice\, discuss questions and understand 
+ what is hot in cloud computing.\n\n[speaker: Julio Faerman\, https://www.li
+ nkedin.com/in/jmfaerman/]\n[language: English]
+LAST-MODIFIED:20170926T084626Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Innovations and Trends in Cloud
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T160000Z
+DTEND:20170929T170000Z
+DTSTAMP:20171008T181001Z
+UID:BD2B6947-11FF-4F99-ACA9-7818645AD421
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/progressive-web-ap
+ ps_andre-duarte.md
+CREATED:20170822T153923Z
+DESCRIPTION:This is a presentation about the concept of Progressive Web App
+ s. Native code has always been regarded as the superior means of developing
+  a mobile application. The Web\, although extremely powerful\, is sometimes
+  seen as a cheaper alternative so companies don't have to develop the same 
+ products twice (or more). But wouldn't it be great if we could develop an a
+ pplication just once and have the exact same experience as a native app? An
+ d wouldn't it be great if that platform was global and free?\n\n[speaker: A
+ ndré Duarte\, https://pixels.camp/onemanclapping]\n[language: English]
+LAST-MODIFIED:20170926T082943Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Progressive Web Apps
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T090000Z
+DTEND:20170930T100000Z
+DTSTAMP:20171008T181001Z
+UID:90C35C6D-8FE5-4926-A769-A7B4C5B37C49
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/harness-the-power-
+ of-static-sites_daniel-da-silva.md
+CREATED:20170925T120016Z
+DESCRIPTION:Static sites are nothing new. The internet started with static 
+ websites until we realized there was a better alternative and started build
+ ing CMS that just grew bigger and more complex Now static sites are a reali
+ ty again. They are the alternative: easy to manage\, simple to edit\, cheap
+  to host. In this talk I'm going over building a simple static website and 
+ a set of tools to manage it: metalsmith to handle the site generation\, pro
+ se.io as a powerful content editor\, Github pages as a free hosting solutio
+ n and cicleci for some tests (echo "All ok!" && exit 0 \;)) and to ensure e
+ verything gets deployed without the need to move a finger.\n\n[speaker: Dan
+ iel da Silva\, https://pixels.camp/danielfdsilva]\n[language: English]
+LAST-MODIFIED:20170926T082915Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Harness the power of Static sites
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T180000Z
+DTEND:20170928T190000Z
+DTSTAMP:20171008T181001Z
+UID:182727E0-B4D7-4AD8-A9F6-3F8772AF1BBF
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/hardware-manufactu
+ ring-the-secrets-of-china_tocha.md
+CREATED:20170822T111659Z
+DESCRIPTION:Join me on this adventure through the secrets of mass manufactu
+ ring products in China. Over the last 5 years\, I have been working and liv
+ ing in Shenzhen\, the Silicon Valley for electronics\, helping companies to
+  make their product ideas come true. I want to share with you the best appr
+ oaches and stages on mass manufacturing your product successfully as well a
+ s how to address the challenges faced by Western and Chinese companies when
+  working together to create innovative products.\n\nAfter this talk\, I hop
+ e you will have a new vision of why it is so important and easier than ever
+  to produce hardware in our technologically evolved society.\n\n[speaker: T
+ ocha\, http://www.tocha.me]\n[language: English]
+LAST-MODIFIED:20170925T122529Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hardware manufacturing\, the secrets of China
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T150000Z
+DTEND:20170928T160000Z
+DTSTAMP:20171008T181001Z
+UID:DDA0D41F-F440-4771-8F55-AAC93D4BEDFA
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/stranger-things-on
+ -the-internet_tiago-henriques.md
+CREATED:20170821T145030Z
+DESCRIPTION:Much like Eleven and the gang\, we at BinaryEdge sometimes are 
+ confronted with real monsters. Unlike in the series "Stranger Things" howev
+ er\, the monsters we're faced with take different shapes. Our monsters are 
+ usually found in the shape of weird things people connect to the internet.\
+ n\nOften we're asked "What is the craziest things you guys have found conne
+ cted to the internet?" In this talk we intend to answer and show exactly th
+ at.\n\nIf you've seen our previous talks and/or read our "World Security Re
+ port" for 2016 (ise.binaryedge.io) you know that we have found some of the 
+ weirdest things online. From water dams\, to electricity grids\, and nuclea
+ r laboratory sensors\, people simply love connecting things to the internet
+ . And in this talk\, we are going to explore the top "things" we've found e
+ xposed\, talk about the different protocols they use and also allow YOU liv
+ e on talk to search for your own things!\n\nOn this talk we will also relea
+ se our 2017 report\, where we show how we detected some of the NSA tools su
+ ch as Double pulsar. We will also make an interesting reveal on this topic.
+  :)\n\n[speaker: Tiago Henriques\, https://pixels.camp/Balgan]\n[language: 
+ English]
+LAST-MODIFIED:20170925T120726Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stranger things - the internet version
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T150000Z
+DTEND:20170928T160000Z
+DTSTAMP:20171008T181001Z
+UID:7F0CE3B2-BE4C-4074-97A1-30735D9E0EE8
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/distributed-system
+ s-zero-to_gabriel-candal.md
+CREATED:20170925T120610Z
+DESCRIPTION:One of the things that always excited me after having started t
+ o program for a living was how could systems be designed in a way that you 
+ could increase its capacity\, not by making brilliant micro-optimizations t
+ hat are only within reach of a few enlighted individuals or the most dilige
+ nt benchmarkers\, but just by Throwing Money at the Problem™ (as in: adding
+  more machines). Having come to realise that in order to make it happen I s
+ hould learn this thing called "Distributed Systems"\, I've started my journ
+ ey (more of walk on the desert\, actually) from zero to hero. Spoiler alert
+ : the first step was understanding there is a lot more that can be achieved
+  other than increasing the system's throughput\, such as reduced latency or
+  increased availability and storage capacity.\n\nIf you share this belief t
+ hat some problems can be better solved (or at all) by having multiple machi
+ nes collaborating and have some interest (or need) in knowing how could you
+  do that\, I'll try not to disappoint you. Far from having reached the "her
+ o" stage\, I believe I can supply you with enough tools to avoid making the
+  same mistakes I've made or had to deal with by sharing concrete advice on 
+ what you should have in mind when reading about the subject\, bootstrapping
+  your first prototypes or building\, tuning and extending systems that use 
+ this kind of stuff.\n\n[speaker: Gabriel Candal\, https://pixels.camp/gcand
+ al]\n[language: English]
+LAST-MODIFIED:20170925T120610Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Distributed Systems: zero to ?
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T170000Z
+DTEND:20170928T180000Z
+DTSTAMP:20171008T181001Z
+UID:AB6060D9-51EF-44D0-8B97-8BB199079FB8
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/monads-for-the-who
+ le-family_hugo-gomes.md
+CREATED:20170918T183628Z
+DESCRIPTION:Monads are an advanced programming concept that can be used in 
+ any computer language by beginners.\n\nThey are also known to be very hard 
+ to explain and to lead those who venture into confusion and frustration.\n\
+ nIn this talk I don't intend to explain what they are or how they work (way
+  smarter people than me have tried this without success).\n\nInstead I deci
+ ded to center the subject on the usual canonical programming examples that 
+ are used to explain your typical programming paradigms\, that way I hope to
+  enable the audacious to decompose any problem with monads.\n\nI will lead 
+ the audience through a set of carefully collided examples so that they can 
+ see past the magical mythical golden aura that Monads have and realize the 
+ true trash cans that they really are.\n\n[speaker: Hugo Gomes\, https://pix
+ els.camp/HugoDaniel]\n[language: Portuguese]
+LAST-MODIFIED:20170925T114058Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monads for the whole family
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T150000Z
+DTEND:20170929T160000Z
+DTSTAMP:20171008T181001Z
+UID:BE657FE5-1AC8-4B09-AA56-D8A6DE0811B4
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/http2-and-what-it-
+ means-to-frontend_rogerio-vicente.md
+CREATED:20170822T144203Z
+DESCRIPTION:HTTP/2 is here\, getting more and more adoption everyday\, so i
+ t's the perfect time to think about migrating! Is it worth the migration? A
+ re optimization techniques the same for both versions? This talk will be a 
+ brief walkthrough the HTTP/2 features\, and how to prepare/optmize your Web
+  App to take full advantage of them.\n\n[speaker: Rogério Vicente\, https:/
+ /pixels.camp/rogeriopvl]\n[language: English]
+LAST-MODIFIED:20170925T000546Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HTTP/2 and what it means to Front-end
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T180000Z
+DTEND:20170929T190000Z
+DTSTAMP:20171008T181001Z
+UID:E745E6C3-9F2C-4B64-AD70-EB65E408EF4E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/docker_compose_dev
+ elop_without_fear-joao_bolila.md
+CREATED:20170906T001313Z
+DESCRIPTION:In this talk I'll guide the build of a development environment 
+ for an application with separate containers\, connected towards a reproduci
+ ble end trusted environment from development to production.\n\nFor this I'l
+ l be using a web application with three containers\, a frontend running Ngi
+ nx\, a Swagger API on NodeJS and a database (PostgreSQL or ElasticSearch).\
+ n\n[speaker: João Bolila\, https://pixels.camp/jbolila]\n[language: English
+ ]
+LAST-MODIFIED:20170924T172203Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Docker Compose for fearless developers
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T130000Z
+DTEND:20170928T140000Z
+DTSTAMP:20171008T181001Z
+UID:9B33CD72-1A60-46FE-9145-205D38F65E09
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/get-100k-grant-dat
+ a-pitch_bashara-hinnawi.md
+CREATED:20170921T104454Z
+DESCRIPTION:Data Pitch is a EU-funded open innovation programme bringing to
+ gether corporate and public-sector organisations that have data with startu
+ ps and SMEs that work with data.\n\nIt is centred around a competition with
+  several tracks which describe challenges\, and a virtual accelerator progr
+ amme (6 months) to help startups and SMEs develop solutions to meet these c
+ hallenges. The startups and SMEs will put forward proposals for creating hi
+ gh impact\, innovative products and services in response to the challenges 
+ defined by Data Pitch. Successful applicants will receive an important fina
+ ncial and advisory boost to their idea\, with support to develop a concept 
+ into a robust and sustainable business.\n\n[speaker: Bashara Hinnawi\, http
+ s://datapitch.eu/]\n[language: English]
+LAST-MODIFIED:20170924T171631Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Get €100k grant with Data Pitch
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T130000Z
+DTEND:20170928T140000Z
+DTSTAMP:20171008T181001Z
+UID:6FD00CC3-68FD-40C0-8787-EAE5E3F00853
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/the-gamification-i
+ mpact-for-developers_manuel-pimenta.md
+CREATED:20170910T230650Z
+DESCRIPTION:Gamification is one of the top buzzwords of the business world.
+  But what does that mean for developers?\n\nWhat is gamification when you t
+ ake out the fluffy managerial terminology and how can it impact the day-to-
+ day of a dev team?\n\nHow can we make it a reality? What frameworks\, engin
+ es\, platforms\, etc are out there and which ones to choose?\n\nShould we b
+ e making our own? If so\, what are the main pitfalls when implementing a ga
+ mification engine?\n\nIn this talk\, I'll define gamification and break it 
+ down to the main elements\, visit some success cases and share some stories
+  of the road of a developer-turned-gamification-designer trying to change t
+ he world.\n\n[speaker: Manuel Pimenta\, https://www.linkedin.com/in/manuelp
+ imenta/]\n[language: English]
+LAST-MODIFIED:20170924T170317Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The impact of gamification in a world of developers
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T190000Z
+DTEND:20170928T200000Z
+DTSTAMP:20171008T181001Z
+UID:3033E033-279B-422E-8BE3-49FD3526916F
+CREATED:20170924T143203Z
+DESCRIPTION:Let's get physical! \n\nJump out of your screen and participate
+  in the Beta-i Summo Tournament\, a real feal one-on-one fight game.\n\nYou
+  just have to topple your opponent wearing a "comfy" Summo suit.\n\nPartici
+ pants will win a Summo Fighter badge and the winner a special "Master Yokuz
+ una" one.\n\nJoin us at the arena for some fun and laughs.
+LAST-MODIFIED:20170924T151311Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sumo fight
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T180000Z
+DTEND:20170929T190000Z
+DTSTAMP:20171008T181001Z
+UID:196C811C-DEAA-4568-9627-2BB7CF4CC93F
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/3d-printing-polyur
+ ethane-resins_ricardo-pereira.md
+CREATED:20170923T151959Z
+DESCRIPTION:Participants will learn how to take advantage of two manufactur
+ ing techniques (digital\, other more traditional) to manufacture working pr
+ ototypes at low cost with features that would not be easily achievable othe
+ rwise.\n\nContrary to what happens with the manufacture of a mold (even low
+  cost)\, there is here the possibility of modifying the production drawing 
+ between each iteration.\n\n[speaker: Ricardo Pereira\, https://www.linkedin
+ .com/in/ricardopereiradesigner/]\n[speaker: Michael Memeteau\, https://www.
+ linkedin.com/in/mmemetea/]\n[language: English]
+LAST-MODIFIED:20170923T152111Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3D printing and polyurethane resins for rapid iteration of function
+ al prototypes
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T210000Z
+DTEND:20170928T230000Z
+DTSTAMP:20171008T181001Z
+UID:1E84642D-89D7-42F0-A9E4-2FC38405967B
+URL:https://codeinthedark.pixels.camp/
+CREATED:20170829T112249Z
+DESCRIPTION:Code in the Dark is a thrilling competition where you'll get th
+ e chance to put your mad HTML and CSS skills to the ultimate test\, by batt
+ ling fellow fontend hackers in two 15-minute rounds for a place in the gran
+ d finale and\, once there\, to win.
+LAST-MODIFIED:20170923T150420Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Code in the dark
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T150000Z
+DTEND:20170929T160000Z
+DTSTAMP:20171008T181001Z
+UID:EA1CD730-D14D-4BF0-BE46-4D7FD57C595E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/3dstreaming-toolki
+ t-for-mobile-experiences.md
+CREATED:20170822T155600Z
+DESCRIPTION:The advent of augmented\, virtual and mixed reality has created
+  a new demand for 3D applications and visualizations. Once the domain of ga
+ mes and entertainment\, now productivity is driving the new wave for MR exp
+ eriences. We are at a crossroads where users live in a mobile\, wireless an
+ d on-demand world but high-end 3D applications are stuck tethered to large 
+ desktops and wired headsets.\n\nThe 3D Streaming Toolkit was started to pro
+ vide a solution to this problem. Using the toolkit\, you can deliver an unc
+ ompromised experience to your users on any mobile platform or device. The p
+ urpose is to provide an open toolkit to enable industries to leverage remot
+ e cloud rendering in their service and product pipelines. This is required 
+ for many industries where the scale and complexity of 3D models\, scenes\, 
+ physics and rendering is beyond the capabilities of a mobile device platfor
+ m. We are extending the industry standard WebRTC framework to 3D scenarios 
+ including mixed reality and will walk through the work we are doing to real
+ ize the goal of delivering high-quality 3D applications to any client - web
+ \, mobile\, desktop and embedded.\n\n[speaker: Tyler Gibson\, http://www.th
+ etylergibson.com/]\n[language: English]
+LAST-MODIFIED:20170923T143402Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3D Streaming toolkit for mobile and web applications
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T150000Z
+DTEND:20170929T160000Z
+DTSTAMP:20171008T181001Z
+UID:F87E9413-0182-43A4-BD70-68884F666BCD
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/building-an-iOS-SD
+ K-challenges-and-solutions_rodrigo-goncalves.md
+CREATED:20170923T143316Z
+DESCRIPTION:The mission was to develop an iOS SDK for a fast growing compan
+ y aiming to set the standard in its industry.\n\nThe questions were many.\n
+ \n- You have the engineering: how to design stable and powerful APIs? Which
+  best practices should we stick to?\n- You have two languages to choose fro
+ m: should we do it in Swift or Objective-C?\n- You have the end-users: Whic
+ h pains will they feel? Can we make an easy integration? What about documen
+ tation? They will have issues\, how to support them?\n- You have the platfo
+ rm: can we avoid long AppStore review cycles? UI customization should be po
+ ssible.\n- And you have Product: which is the design that offers more flexi
+ bility for new features to other platforms?\n\n[speaker: Rodrigo Gonçalves\
+ , https://pixels.camp/pragmapilot]\n[language: English]
+LAST-MODIFIED:20170923T143316Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Building an iOS SDK: Challenges & Solutions
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T090000Z
+DTEND:20170930T100000Z
+DTSTAMP:20171008T181001Z
+UID:03C09E76-78A4-432B-AE78-4254954E98FD
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/cloud-functions-ml
+ -apis_carlos-azaustre.md
+CREATED:20170921T010502Z
+DESCRIPTION:How to start with Cloud Functions for Firebase and Machine Lear
+ ning APIs to create supercharge web applications easily.\n\n[speaker: Carlo
+ s Azaustre\, https://github.com/carlosazaustre]\n[language: English]
+LAST-MODIFIED:20170921T205418Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cloud Functions & Machine Learning APIs
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T170000Z
+DTEND:20170930T180000Z
+DTSTAMP:20171008T181001Z
+UID:0F83AD87-2CB3-467F-8E53-B0E46EB0D1F7
+CREATED:20170712T180758Z
+DESCRIPTION:[duration: false]
+LAST-MODIFIED:20170921T191043Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hackathon and Launchpad Winners & Prizes
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T200000Z
+DTEND:20170929T210000Z
+DTSTAMP:20171008T181001Z
+UID:0063446E-C88D-4EA1-A023-D79F2B35B3C8
+CREATED:20170720T152108Z
+DESCRIPTION:[duration: false]
+LAST-MODIFIED:20170921T191010Z
+LOCATION:Kitchen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T200000Z
+DTEND:20170928T210000Z
+DTSTAMP:20171008T181001Z
+UID:A6CCDFB9-AC5D-4E85-84E6-22FF819C269B
+CREATED:20170720T152050Z
+DESCRIPTION:[duration: false]
+LAST-MODIFIED:20170921T191006Z
+LOCATION:Kitchen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T080000Z
+DTEND:20170929T090000Z
+DTSTAMP:20171008T181001Z
+UID:7B9676D1-A180-4C43-8050-13440CCB5923
+URL:https://github.com/PixelsCamp/docs/blob/master/HACKATHON.md
+CREATED:20170712T180258Z
+DESCRIPTION:The goal of the Pixels Camp challenge is to single out and rewa
+ rd creativity and innovation by providing participants with an opportunity 
+ to work together within a time frame of 48 hours to create something awesom
+ e.\n\n[duration: false]
+LAST-MODIFIED:20170921T190954Z
+LOCATION:Pavilhão Carlos Lopes
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:48 hour non-stop programming contest continues
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T080000Z
+DTEND:20170930T090000Z
+DTSTAMP:20171008T181001Z
+UID:A3D0DE13-431C-4C4D-8F72-74365700BD22
+URL:https://github.com/PixelsCamp/docs/blob/master/HACKATHON.md
+CREATED:20170712T180536Z
+DESCRIPTION:The goal of the Pixels Camp challenge is to single out and rewa
+ rd creativity and innovation by providing participants with an opportunity 
+ to work together within a time frame of 48 hours to create something awesom
+ e.\n\n[duration: false]
+LAST-MODIFIED:20170921T190951Z
+LOCATION:Pavilhão Carlos Lopes
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:48 hour non-stop programming contest continues
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T120000Z
+DTEND:20170930T130000Z
+DTSTAMP:20171008T181001Z
+UID:1B1FBCEC-AFE6-435D-9C78-3B6E73D434DB
+CREATED:20170712T180610Z
+DESCRIPTION:[duration: false]
+LAST-MODIFIED:20170921T190946Z
+LOCATION:Kitchen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T120000Z
+DTEND:20170930T130000Z
+DTSTAMP:20171008T181001Z
+UID:01576812-B3B5-49E2-B9BE-C897BE215B90
+CREATED:20170712T180627Z
+DESCRIPTION:[duration: false]
+LAST-MODIFIED:20170921T190941Z
+LOCATION:Pavilhão Carlos Lopes
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:48 hour non-stop programming contest ends
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T120000Z
+DTEND:20170929T130000Z
+DTSTAMP:20171008T181001Z
+UID:6F48EDE8-007E-4FA8-B055-6ED25D01072D
+CREATED:20170712T180452Z
+DESCRIPTION:[duration: false]
+LAST-MODIFIED:20170921T190936Z
+LOCATION:Kitchen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T120000Z
+DTEND:20170928T130000Z
+DTSTAMP:20171008T181001Z
+UID:35E1C704-28C2-4654-88AE-51FFE25809C5
+CREATED:20170712T180222Z
+DESCRIPTION:[duration: false]
+LAST-MODIFIED:20170921T190932Z
+LOCATION:Kitchen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T110000Z
+DTEND:20170928T120000Z
+DTSTAMP:20171008T181001Z
+UID:0330F80B-B1CA-4808-92AC-2610B3159211
+URL:https://github.com/PixelsCamp/docs/blob/master/HACKATHON.md
+CREATED:20170712T180119Z
+DESCRIPTION:The goal of the Pixels Camp challenge is to single out and rewa
+ rd creativity and innovation by providing participants with an opportunity 
+ to work together within a time frame of 48 hours to create something awesom
+ e.\n\n[duration: false]
+LAST-MODIFIED:20170921T190914Z
+LOCATION:Pavilhão Carlos Lopes
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:48 hour non-stop programming contest starts
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T080000Z
+DTEND:20170928T090000Z
+DTSTAMP:20171008T181001Z
+UID:4r2lhu57qcbsseoltct42bdhk3@google.com
+CREATED:20170712T175911Z
+DESCRIPTION:Approved participants need to Check-In at the event and get the
+ ir credentials.\n\n[duration: false]
+LAST-MODIFIED:20170921T190905Z
+LOCATION:Pavilion Carlos Lopes
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Check-In and Registration
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T160000Z
+DTEND:20170929T170000Z
+DTSTAMP:20171008T181001Z
+UID:B5E0EC61-6282-46EC-AE84-EC94D4C6A3EE
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/how-can-we-make-te
+ ch-more-inclusive_panel.md
+CREATED:20170920T110827Z
+DESCRIPTION:With the help from Feedzai\, we will be discussing some of the 
+ myths about diversity in tech\, what’s stopping minorities from entering an
+ d staying in STEM and how can we all contribute to make tech more inclusive
+ . The truth is\, we are building the society of the future and if our commu
+ nity isn’t diverse and inclusive now\, we risk building a society that will
+  continue to reinforce harmful biases and unfair disadvantages that will af
+ fect up to 80% of the world population.\n\nThis panel will open the convers
+ ation for Q&A with the audience.\n\n[language: English]\n
+LAST-MODIFIED:20170921T151613Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Diversity Panel
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T170000Z
+DTEND:20170929T180000Z
+DTSTAMP:20171008T181001Z
+UID:0748CC95-CFAC-44FA-80C9-3F6B88DF4BB7
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/dirty-architecture
+ _joao-fernandes.md
+CREATED:20170902T122503Z
+DESCRIPTION:It's 2017. There's a whole lot of literature on how to write go
+ od software out there. Design patterns\, architectural styles\, frameworks\
+ , design principles\, they all promise that you will be writing better soft
+ ware. Books are continuously getting published\, blog posts written\, talks
+  being delivered.\n\nSeems like a lot of these are like fashions\, they com
+ e and go.\n\nBut what if you want to get better at writing worst software? 
+ You've come to the right place. Together we will take the road less travele
+ d. Tips on how to write bad software are like diamonds\, they last forever.
+ \n\n[speaker: João Fernandes\, https://pixels.camp/jcmfernandes]\n[language
+ : English]
+LAST-MODIFIED:20170921T123049Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dirty Architecture
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T170000Z
+DTEND:20170929T180000Z
+DTSTAMP:20171008T181001Z
+UID:7C8099B2-2FA2-4E96-B5BE-F95F6B3831F1
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/clean-for-four-mon
+ ths_eduardo-taborda.md
+CREATED:20170921T104749Z
+DESCRIPTION:It is possible to me to talk about The Clean Architecture\, bec
+ ause of our team effort to built proof of concepts\, one for Android and ot
+ her for iOS.\n\nThe title is as metaphor for the effort we developers make 
+ to (keep) write Clean Code as in the book.\n\nIt Starks from a interpretati
+ on of what is Clean and ends with the outcomes of a (four months) proof of 
+ concept for the Android platform.\n\n- What I as running away from\, when a
+  stumble over Clean.\n- A glimpse of what is Clean. (To a full understandin
+ g Robert C. Martin is the best).\n- How implementing Clean can be exciting 
+ for developers\, and at the same time ensures a long life to the project.\n
+ \n[speaker: Eduardo Taborda\, https://pixels.camp/etaborda]\n[language: Eng
+ lish]
+LAST-MODIFIED:20170921T122938Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clean for four months
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T180000Z
+DTEND:20170929T190000Z
+DTSTAMP:20171008T181001Z
+UID:CBDE4E78-29E5-447C-A5B9-6D7B8D2ACC2F
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/hardening-your-inf
+ rastructure-with-a-vault_luis-duarte.md
+CREATED:20170921T005223Z
+DESCRIPTION:Sharing passwords and secrets have always been a big "headache"
+  for Security and Ops Teams\, because not only these teams want to control 
+ who has access to what\, but want to be able to react faster when there is 
+ the suspicion that a leak has happened. Two simple examples are when Dev te
+ am want's to run a Data Repair Script\, they need to either create a contai
+ ner and have Ops inject the credentials they need via Env Variables (Not re
+ commended) or they need to send the script to Ops\, have them modify it wit
+ h the credentials and execute it (Error Prone). The other example is when a
+ ttackers gain access to your database credentials by exploring remote-code 
+ execution exploits to dump the Environment Variables\, you want to be able 
+ to invalidate old credentials and generate new ones quickly.\n\nThis talk w
+ ill introduce you to Vault by HashiCorp. I'll show you some use-cases and w
+ orkflows on how we can control access to services in general just by using 
+ Tokens.\n\n[speaker: Luís Duarte\, https://pixels.camp/driverpt]\n[language
+ : English]
+LAST-MODIFIED:20170921T122846Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hardening your Infrastructure with a Vault
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T170000Z
+DTEND:20170929T180000Z
+DTSTAMP:20171008T181001Z
+UID:D0C12D01-83D5-4FE6-B7BC-2D6A8A232DF8
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/innovating-in-the-
+ enterprise-software-space_tales-from-the-trenches_diogo-guerra.md
+CREATED:20170921T122132Z
+DESCRIPTION:How can enterprise software be exciting\, challenging and fast?
+  Enterprise grade systems are most of times linked to boring\, heavy and sl
+ ow software development\, however that's not true!\n\nWhat is an enterprise
+  grade system? Is it really different from others? Is there space for innov
+ ation? How fast can you move? What are the myths and the realities of build
+ ing such systems?\n\nIn this talk I will speak about my journey on building
+  an enterprise grade system that has the strongest requirements of performa
+ nce\, security and availability at the same time that innovation was and st
+ ill is essential for our survival. How we have introduced new technology in
+ to the product\, the strong partnerships with top technology companies like
+  Datastax or Azul Systems that build high performance platforms like Cassan
+ dra and Zing JVM\, and the state of the art processes to deliver quality so
+ ftware for Fortune 500 corporations.\n\nA brief walk-through on building a 
+ real time distributed system that can't fail or slow down and that raises t
+ he bar to any Machine Learning pipeline.\n\n[speaker: Diogo Guerra\, https:
+ //pixels.camp/diogoeag]\n[language: English]
+LAST-MODIFIED:20170921T122220Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Innovating in the Enterprise Software: Tales from the Trenches
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T090000Z
+DTEND:20170930T100000Z
+DTSTAMP:20171008T181001Z
+UID:B6E2B144-DB9E-4BC4-82F6-6F9D198CDDB2
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/load-test-all-the-
+ things_nuno_caneco.md
+CREATED:20170921T002106Z
+DESCRIPTION:Not all applications are born the same: some are subject to hig
+ h load\, others will be hit by a couple of requests every once in a while\;
+  some will be fed with loads and loads of data\, others will deal with a co
+ uple of MBytes from time to time\; some are built with performance as a non
+ -functional requirement\, other are "just made to work".\n\nEither way\, as
+  a developer\, it's important to know how to find performance issues on an 
+ application under heavy load while also getting to know the factors that ar
+ e a constraint to the performance like a database or some library in use.\n
+ \nIn this session\, we'll be submitting a web application to a load test an
+ d learn a few tricks on how to improve it's performance.\n\n[speaker: Nuno 
+ Caneco\, https://github.com/nmcc]\n[language: English]
+LAST-MODIFIED:20170921T104102Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Load Test all the things
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T100000Z
+DTEND:20170930T110000Z
+DTSTAMP:20171008T181001Z
+UID:B281B10C-E775-4261-9199-1AD320FB8A62
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/supercharge-your-a
+ ndroid-apps-cloud-functions_paola-garc%C3%ADa.md
+CREATED:20170921T003246Z
+DESCRIPTION:Have you tried Firebase Cloud Functions for your Android app? W
+ ould you like to know how to integrate it? Make your Android App Serverless
+  with Cloud Functions of Firebase.\n\n[speaker: Paola García\, https://gith
+ ub.com/olapaola]\n[language: English]
+LAST-MODIFIED:20170921T104002Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Supercharge your Android Apps with Cloud Functions
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T100000Z
+DTEND:20170930T110000Z
+DTSTAMP:20171008T181001Z
+UID:F1757363-5F7A-4FC0-837A-3459C3E624A8
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/testing-who-why-wh
+ en_fabio-barbosa_filipe-carvalho.md
+CREATED:20170824T165721Z
+DESCRIPTION:Testing… everyone knows it exists\, some talk about it\, few do
+  it\, even fewer do it well. Testing is an activity\, not a state in the en
+ d of the production line of a software product\, that says ‘yey’ or ‘nei’. 
+ For that\, test automation is a must. And test automation is often neglecte
+ d.\n\nBy exploring the test pyramid we will give a context for each type an
+ d which metrics we should use. It will be an open discussion about who\, wh
+ y and when we should test.\n\nWe have been implementing automation in Mobil
+ e development with automated UI test\, static analysis\, dependency checks 
+ and updates\, automated pipelines and other activities that help decreasing
+  the time spent in each release/merge and at the same time increase the sta
+ bility of the products.\n\n[speaker: Fábio Barbosa\, https://pixels.camp/Fa
+ bioCB]\n[speaker: Filipe Carvalho\, https://pixels.camp/filipemcarvalho]\n[
+ language: English]
+LAST-MODIFIED:20170921T003402Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Testing - who\, why\, when?
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T090000Z
+DTEND:20170930T100000Z
+DTSTAMP:20171008T181001Z
+UID:72A6635D-1616-45E6-A04E-771EB3CDBDE7
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/take_control_of_yo
+ ur_house_with_rpi_and_docker-joao_pedro_dias.md
+CREATED:20170905T234810Z
+DESCRIPTION:We're living on the verge of ubiquitous computing\, where compu
+ ting is made to appear everywhere and anywhere. As such\, we're dealing wit
+ h this now\, by the means of the Internet of Things.\n\nIn this talk\, I wi
+ ll share how I build my smart home headquarters (gateway and server) on top
+  of a Raspberry Pi 2\, using Docker and all the buzzwords such as MQTT\, Mo
+ squitto\, InfluxDB\, Grafana and Node-RED. With this approach anyone is cap
+ able of continuosly monitor the current state of the home by its metrics\, 
+ configure alarms (such as a moving sensor for intruder alert)\, turn on the
+  AC system before leaving work or even make dinner by turning on the microw
+ ave\, all empowered by easily-configured flow-control diagrams.\n\n[speaker
+ : João Pedro Dias\, https://pixels.camp/jpdias]\n[language: English]
+LAST-MODIFIED:20170921T003231Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PiHeadquarters or How to Take Control of your House with Raspberry 
+ Pi and Docker
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T140000Z
+DTEND:20170929T170000Z
+DTSTAMP:20171008T181001Z
+UID:7D2741F8-C7F3-4F5E-9CB2-D196E4E7ACCA
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/gamification-101-p
+ ractical-guide_manuel-pimenta.md
+CREATED:20170910T234659Z
+DESCRIPTION:Gamification seems easy enough in theory\, but what does it mea
+ n to "design a gamification solution"?\n\nIn this workshop\, we'll go throu
+ gh the process of solving an engagement problem using game elements and gam
+ e design techniques.\n\nWe'll go from understanding the lack of engagement 
+ from the users\, to calling them players and designing a prototype they can
+  interact with.\n\nA no code\, hands-on ride into the mindset of a game des
+ igner unleashed into the world.\n\n[speaker: Manuel Pimenta\, https://www.l
+ inkedin.com/in/manuelpimenta/]\n[language: English]\n
+LAST-MODIFIED:20170921T002043Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gamification 101 - A guide on how to change the world with the powe
+ r of gaming
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T140000Z
+DTEND:20170928T180000Z
+DTSTAMP:20171008T181001Z
+UID:EEFCEEDE-01FD-477D-8769-1C2523C1679A
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/launchpad-finals.m
+ d
+CREATED:20170910T231044Z
+DESCRIPTION:The goal of Launchpad is to foster the adoption of promising te
+ chnologies among corporations and help develop new companies.\n\n20 Startup
+ s go on stage and present an idea\, a fully developed product\, or somethin
+ g in between\, in the fields of AI\, IoT\, AR/VR or Cybersecurity\, as appl
+ ied to five key sectors: Retail\, Telco\, Fintech\, Healthcare\, and Energy
+ .\n\nThis session will also include a talks from Rui Cordeiro\, on Gamifica
+ tion strategies from companies.\n\n[language: English]\n[speaker: Rui Corde
+ iro\, https://www.linkedin.com/in/ruimscordeiro/]
+LAST-MODIFIED:20170921T000457Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Launchpad Finals
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T130000Z
+DTEND:20170928T140000Z
+DTSTAMP:20171008T181001Z
+UID:3F1D86CD-17B6-4D62-999E-A80964032799
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/exposure_celso-mar
+ tinho.md
+CREATED:20170921T000013Z
+DESCRIPTION:In this talk\, we're going to talk about Exposure. It's not wha
+ t you think\, but you're going to like it anyways.\n\nIn fact\, if you want
+  to win the hackathon\, learn about blockchain tech\, take full advantage o
+ f all the activities and have a s*itload of fun in the process\, then you s
+ hould probably attend this talk. There's a reason why it's the first one on
+  the list.\n\nMore details on this in the upcoming days.\n\n[speaker: Celso
+  Martinho\, https://pixels.camp/celso]\n[speaker: Cláudio Gamboa\, https://
+ pixels.camp/suskind]\n[language: English]
+LAST-MODIFIED:20170921T000108Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exposure
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T130000Z
+DTEND:20170928T140000Z
+DTSTAMP:20171008T181001Z
+UID:7F1E1292-C7BA-448B-89B2-43AD0FB4F7EF
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/developing-embedde
+ d-software_jorge-pinto.md
+CREATED:20170821T163704Z
+DESCRIPTION:Since some years\, I am being developing OpenSource firmware fo
+ r the chinese electric motor controllers that are used on small electric ve
+ hicules: hoverboards\, skates\, unicycles and bicycles.\n\nThis chinese con
+ trollers are dirty cheap\, capable and with ok quality. Since they optimize
+  their products for price\, they have very limited resources - developing f
+ irmware for their controllers means learning how to make "the thing" in a u
+ nique and creative ways\, optimizing all the processing power and memory us
+ ed.\n\nWhy I decided strategically to develop firmware for the cheap chines
+ e controllers? Because the market is flooded with them: they work well and 
+ are easy to get. This OpenSource firmware is the first in the world and I h
+ ope it will be used by many users as possible\, shapping the future like Ar
+ duino did.\n\nI would like to present my experience\, from developing the f
+ irmware and up to try gather a community and contact with people all over t
+ he world (using a lot Google translator for german\, chinese\, etc).\n\n[sp
+ eaker: Jorge Pinto\, https://pixels.camp/casainho]\n[language: English]
+LAST-MODIFIED:20170920T234010Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Developing embedded software/firmware for chinese electric ebike mo
+ tor controllers
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T130000Z
+DTEND:20170928T140000Z
+DTSTAMP:20171008T181001Z
+UID:6BFB1B94-0E41-40B8-A5C5-D38BD715C6E1
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/monolith-the-break
+ ing_daniel-serrano.md
+CREATED:20170905T233440Z
+DESCRIPTION:Startups often start out by developing MVPs that fit all needs 
+ of their product offering. Billing\, user management\, invoicing\, etc. It'
+ s all crammed up in the same place. The so called monolith. This can lead t
+ o various problems: running the deployment pipeline now takes ages\, that f
+ laky test you didn't write is breaking and it is now your responsibility to
+  fix it\, you're dependent on deploy times of other teams to release your f
+ eature\, etc.\n\nIn this talk\, I'm going to try and convince you on why yo
+ u should embrace a microservices-oriented architecture and how you can effe
+ ctively achieve a successful transition. It will be based on a real-life sc
+ enario of extracting two microservices out of an existing monolith. By the 
+ end of this talk\, you'll hopefully have an idea about why the following ar
+ e important\, and what role each of these play in this process of breaking 
+ the monolith.\n\n[speaker: Daniel Serrano\, https://pixels.camp/dnlserrano]
+ \n[language: English]
+LAST-MODIFIED:20170919T173914Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monolith: The Breaking
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T100000Z
+DTEND:20170930T110000Z
+DTSTAMP:20171008T181001Z
+UID:39F763E7-A374-4B23-9128-F506FE26AB9E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/stories-from-the-t
+ renches-of-building-a-data-architecture_florentino-bexiga.md
+CREATED:20170902T121150Z
+DESCRIPTION:We live in a Data-centric era. Nowadays we have at our disposal
+  an enormous variety of services using data. Behind those services there ar
+ e architectures supporting the flowing and processing of that data. BinaryE
+ dge.io is no exception. Supporting our platform\, we have a data architectu
+ re processing 1000s of events per second\, which was built and is currently
+  maintained by us.\n\nIn this talk we are going to review the parts that co
+ mpose a data architecture\, and discuss which tools can be used at each ste
+ p to arrive at a functional architecture. Note that the insights given will
+  not be based of theoretical documents or truckloads of years of experience
+ \, but on our own experience of building and maintaining a large scale data
+  infrastructure and architecture.\n\n[speaker: Florentino Bexiga\, https://
+ pixels.camp/fbexiga]\n[language: English]
+LAST-MODIFIED:20170919T155237Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stories from the trenches of building a data architecture
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T100000Z
+DTEND:20170930T110000Z
+DTSTAMP:20171008T181001Z
+UID:D4517EEB-6A85-45FC-AB72-EA988DD5C2B6
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/javascript-the-new
+ -english_mario-goncalves.md
+CREATED:20170824T112320Z
+DESCRIPTION:Even though it seems like Javascript "is eating the World"\, it
+  is not exactly so. In fact\, this exact same pattern of growth\, use and e
+ xpansion was found in the history of today's lingua franca: English\n\nThis
+  talk will draw a parallel between a natural language and a programming lan
+ guage\, comparing their syntax and evolution\, unveiling oddities and simil
+ arities as well as touch the advantages - and common pitfalls - of having a
+  cross-boundary language in this increasingly small and diverse world.\n\n[
+ speaker: Mário Gonçalves\, https://pixels.camp/mariomc]\n[language: English
+ ]
+LAST-MODIFIED:20170919T155212Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Javascript: The new English
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T180000Z
+DTEND:20170928T190000Z
+DTSTAMP:20171008T181001Z
+UID:D02ACA0E-B9DD-4372-AE03-1B64DB17BE43
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/operations-as-a-pr
+ oduct_pedro-coelho.md
+CREATED:20170821T160942Z
+DESCRIPTION:This talk will explore a product approach to operations\, where
+  Ops proactively provide engineering teams their services abstracted in API
+ s or tools. It will expose some methodologies that may be used to ease thin
+ gs up\, and what tools the ecosystem provides these days to support rapid d
+ evelopment in the Ops team. It will also look at some product design techni
+ ques to detect our users’ needs and alert on some common pitfalls\, and loo
+ k at how some companies were successful in monetising this approach to crea
+ te new public products.\n\n[speaker: Pedro Coelho\, https://pixels.camp/pun
+ nie]\n[language: English]
+LAST-MODIFIED:20170919T155001Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Operations as a Product
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T170000Z
+DTEND:20170928T180000Z
+DTSTAMP:20171008T181001Z
+UID:ECFAA4CF-DAE9-49DA-8B06-C25E6C2D97D1
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/google-big-query-d
+ ata-warehouse.md
+CREATED:20170918T184554Z
+DESCRIPTION:BigQuery is Google's fully managed\, petabyte scale\, data ware
+ house for analytics. BigQuery is serverless. The talk describes architectur
+ e\, best practices and includes some live demos.\n\n[speaker: Rafael Shanch
+ ez\, https://github.com/rafaelsf80]\n[language: English]
+LAST-MODIFIED:20170919T110011Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Google BigQuery: data warehouse for large-scale analytics
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T140000Z
+DTEND:20170928T150000Z
+DTSTAMP:20171008T181001Z
+UID:C41DCAD0-D18D-495A-9818-48091A698BB3
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/intro-to-machine-l
+ earning_javier-martinez.md
+CREATED:20170902T143212Z
+DESCRIPTION:Machine Learning is becoming a big topic. We will introduce Ten
+ sorflow\, the open-source framework for ML\, and how to use it in the Cloud
+ \, and the Google APIs that allows to add ML to your apps without building 
+ models from scratch.\n\n[speaker: Javier Martínez\, https://twitter.com/jam
+ armu_es]\n[language: English]
+LAST-MODIFIED:20170919T110000Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Introduction to Machine Learning: build your own or just consume
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T110000Z
+DTEND:20170929T120000Z
+DTSTAMP:20171008T181001Z
+UID:563A3D2B-39F1-4A58-9A7F-764B8641A756
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/building-advanced-
+ bots_steve_sfartz.md
+CREATED:20170828T185344Z
+DESCRIPTION:If it takes minutes to code a bot\, building professional bots 
+ represents quite a challenge. Soon you realize you need serious programming
+  and API architecture experience but also “Bot” specific skills. In this se
+ ssion\, we'll first show the basics to build a Chat Bot. We'll then explore
+  the challenges faced when creating more advanced Bots: persisting user con
+ texts\, interfacing with NLP technologies\, adding Bot Metadata\, controlli
+ ng OAuth scopes at the enterprise level... Finally\, we'll discuss interest
+ ing opportunities from latest industry trends: embedding Calls and Video\, 
+ connecting with Real World events & IoT devices...\n\nThis talk is about sh
+ owing the code and sharing lessons learnt.\n\n[speaker: Steve Sfartz\, http
+ s://www.linkedin.com/in/stevesfartz/]\n[language: English]
+LAST-MODIFIED:20170918T174846Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Building Advanced Bots
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T110000Z
+DTEND:20170929T120000Z
+DTSTAMP:20171008T181001Z
+UID:EF7B9A0C-5950-4DB4-B76D-8114F0711741
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/kubernetes-in-the-
+ cloud_vasco-pinho.md
+CREATED:20170918T174800Z
+DESCRIPTION:Containers are all the rage and everyone says you need to be us
+ ing them\, meanwhile your Ansible playbooks are more than enough. And you g
+ ot VM’s to isolate your workflows\, why the hell do you need to containeriz
+ e? I’ll try to show you that kubernetes offers a lot you might be implement
+ ing yourself\, and why you should consider giving it a try.\n\nStill\, you 
+ look up the documentation\, and there’s a million things going on. How does
+  it actually work and what can you easily do with it? We’re going to go ove
+ r some example deployments that show you how you can get from a simple stat
+ eless application\, up to a stateful data store distributed across availabi
+ lity zones. Throughout\, we’ll go over cool tricks\, things to keep in mind
+ \, kubernetes internals and fearless live demos.\n\n[speaker: Vasco Pinho\,
+  https://pixels.camp/vascop]\n[language: English]
+LAST-MODIFIED:20170918T174800Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kubernetes in the cloud
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T110000Z
+DTEND:20170930T120000Z
+DTSTAMP:20171008T181001Z
+UID:A432327E-C312-4BB6-BA3E-285DC9B98BA4
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/more_my_type-luis_
+ rodrigues.md
+CREATED:20170917T235422Z
+DESCRIPTION:An overview of the benefits of using typed languages when worki
+ ng with React and React Native\, with examples in TypeScript\, including se
+ tup using Webpack and tsc\, a comparison with standard PropTypes and Flow\,
+  common caveats\, and strategies for converting your existing applications.
+ \n\n[speaker: Luis Rodrigues\, https://pixels.camp/goblindegook]\n[language
+ : English]
+LAST-MODIFIED:20170917T235514Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:More My Type: Developing React Applications in TypeScript
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T110000Z
+DTEND:20170930T120000Z
+DTSTAMP:20171008T181001Z
+UID:3DE27F50-AE6B-47D4-BE81-D027AD0CAC67
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/machine_Learning_i
+ n_the_wild-jaime_ferreira.md
+CREATED:20170910T192356Z
+DESCRIPTION:In this talk you will learn why Machine Learning and Data Scien
+ ce are much more than algorithms. Out there\, in real world industrial appl
+ ications\, it is a complex and intertwined mix of technology\, domain const
+ raints\, intuition and team-work. Using real stories from Feedzai's experie
+ nce fighting fraud in payments\, we will illustrate why applying machine le
+ arning to live systems goes beyond using a dataset to train a predictive mo
+ del. Technological issues such as scale\, class balancing\, concept drift\,
+  and data cleaning are a challenge to any data scientist\, but they are onl
+ y part of the story. In this talk\, we will also show how non-technological
+  issues can be so hard\, and why good practices can have a tremendous impac
+ t on results.\n\n[speaker: Jaime Ferreira\, https://pixels.camp/jaimerferre
+ ira]\n[language: English]
+LAST-MODIFIED:20170917T235418Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Machine Learning in the Wild - What they don't teach you in books
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T100000Z
+DTEND:20170930T110000Z
+DTSTAMP:20171008T181001Z
+UID:51481D89-3A0C-4656-82E2-19E114D6474C
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/waiting-is-boring_
+ filipe-freire.md
+CREATED:20170917T234844Z
+DESCRIPTION:Waiting. Nobody likes it.\n\nPicture this: you make tests in a 
+ continuous integration workplace. Be it webpages\, microservices\, topologi
+ es\, messaging systems.\n\nSomewhere along the way you've gone to the dark 
+ side. You have to make the computer wait or sleep because something is not 
+ ready.\n\nForget about standard "waiting". There are new techniques that ar
+ e not known by many\, but that make waiting in tests smarter. Some of these
+  techniques will be live demonstrated for a typical frontend application te
+ st and micro-service with an API and messaging.\n\n[speaker: Filipe Freire\
+ , https://pixels.camp/filfreire]\n[language: English]
+LAST-MODIFIED:20170917T234935Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Waiting is boring
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T090000Z
+DTEND:20170929T100000Z
+DTSTAMP:20171008T181001Z
+UID:A16D33F7-7438-4B1C-9C92-E74B1A25AE13
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/exploiting-cryptog
+ raphic-vulnerabilities-in-real-world-applications_joao-pena-gil.md
+CREATED:20170917T234458Z
+DESCRIPTION:We use cryptography every day\, whether we're aware of it or no
+ t. The green padlock on the top left corner of our browser window gives us 
+ a feeling of trust and comfort... but what happens when we take crypto into
+  our own hands and try to solve every problem with it? This talk is an expo
+ sée of applications vulnerable to cryptographic vulnerabilities that I have
+  found while working as a penetration tester and application security analy
+ st. From decrypting credit card numbers to breaking passwords\, I will show
+  you how I performed basic cryptanalysis to find weaknesses in these scheme
+ s and exploit them for fun and profit.\n\n[speaker: João Pena Gil\, https:/
+ /pixels.camp/Jack64]\n[language: English]
+LAST-MODIFIED:20170917T234541Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exploiting Cryptographic Vulnerabilities in Real World Applications
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T130000Z
+DTEND:20170929T140000Z
+DTSTAMP:20171008T181001Z
+UID:D3A0594E-0DA8-4224-A0DF-D11DDF41F03E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/static-analysis-o-
+ plomo_jose-pereira.md
+CREATED:20170917T233910Z
+DESCRIPTION:Have you considered auditing your source code using static anal
+ ysis tools? What do these things pick up that you can't with a code review?
+  How do they work?\n\nSoftware security concerns have fortunately been incr
+ easing over the last few years\, certainly due to the continuous growing nu
+ mber of threats being thrown at our applications every day. Still\, not eve
+ ry project's contributor is a software security expert and hiring one to pe
+ rform thorough code reviews for each contribution can be unsustainable.\n\n
+ This is where SAST (Static Application Security Testing) comes in. These to
+ ols rely on static source code analysis to parse and query abstract syntax 
+ trees\, or parse trees\, inferring potential vulnerabilities without having
+  a running system. The basic components of these tools will be discussed as
+  well as their pros and cons.\n\n[speaker: José Pereira\, https://pixels.ca
+ mp/jmcPereira]\n[language: English]
+LAST-MODIFIED:20170917T233954Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Static Analysis o Plomo?
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T100000Z
+DTEND:20170929T110000Z
+DTSTAMP:20171008T181001Z
+UID:28D8EBC2-4650-47ED-B366-07F2C913DD8E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/train-your-own-ant
+ ivirus-with-machine-learning_xufuou.md
+CREATED:20170917T233511Z
+DESCRIPTION:Hopefully\, you have been hearing about Machine Learning lately
+ \, it's the new hype and companies are going crazy about it. Sadly\, this t
+ alk is not about mainstream\, not about deep learning or state of art resea
+ rch. Although I will definitely talk about ML\, it will be through my perso
+ nal experience and I will showcase a classification problem (virus detectio
+ n) where ML can be applied with supervised learning. Join me and learn how 
+ to create your own antivirus.\n\n[speaker: Xu Fu Ou\, https://pixels.camp/x
+ ufuou]\n[language: English]
+LAST-MODIFIED:20170917T233608Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Train your own antivirus with Machine Learning
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T110000Z
+DTEND:20170930T120000Z
+DTSTAMP:20171008T181001Z
+UID:F9572B0E-1859-46C3-AFDA-9D362475C59A
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/1001-reasons-to-us
+ e-python_gil-goncalves.md
+CREATED:20170828T190030Z
+DESCRIPTION:In this talk I'll showcase awesome things about the Python prog
+ ramming language and hopefully convince you on why you should use it.\n\nI 
+ will go through the pros and cons of using Python\, talk a bit about it's h
+ istory\, compare it against other languages and talk about it's wonderful c
+ ommunity.\n\nThis talk is for every developer looking for a new language to
+  learn\, for ways to convince their boss to use Python\, or even for hobbyi
+ sts looking for easy ways of solving their problems.\n\nQuestions that will
+  be answered in this talk:\n\n- Should I learn Python?\n- Should my company
+  use Python for X project?\n- What can I use Python for?\n- Is Python old a
+ nd boring?\n\n[speaker: Gol Gonçalves\, https://pixels.camp/lurst]\n[langua
+ ge: English]
+LAST-MODIFIED:20170917T233124Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:1001 Reasons to use Python
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T090000Z
+DTEND:20170929T100000Z
+DTSTAMP:20171008T181001Z
+UID:81810EF1-D32C-4682-89E4-DEDFDE509B9E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/hacking-your-IDEto
+ r_miguel-palhas.md
+CREATED:20170821T165315Z
+DESCRIPTION:This time\, I'll focus on one particular tool: the text editor.
+  For me that's Neovim\, for you\, it might be Visual Studio\, or even aaarg
+ h Emacs. But who cares?\n\nMy goal for the past few months is to do as litt
+ le of my job as possible.\n\nMy job is to write code. And I want to write l
+ ess of it\, and also spend less time writing it.\n\nSo I'm focusing on havi
+ ng my editor do the heavy lifting for me. And that covers a wide range of t
+ opics:\n\n- Seamless navigation within a codebase (often within multiple la
+ nguages)\n- Dynamic and contextual snippets\n- Auto-generated boilerplate c
+ ode\n- Strongly typed vs weakly typed languages\n- Cool sh*t your text edit
+ or can't event do\, but you wish it could\n\nIn this talk I'll go through v
+ arious methodologies\, tips\, plugins\, and shortcuts\, that I use during t
+ he day to be able to increase my output.\n\n[speaker: Miguel Palhas\, https
+ ://pixels.camp/naps62]\n[language: English]
+LAST-MODIFIED:20170917T232906Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hacking your IDEtor
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T163000Z
+DTEND:20170930T170000Z
+DTSTAMP:20171008T181001Z
+UID:B5E70424-62FA-4566-B89E-BC99CC103521
+CREATED:20170712T180741Z
+DESCRIPTION:
+LAST-MODIFIED:20170915T132834Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final remarks
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T110000Z
+DTEND:20170930T120000Z
+DTSTAMP:20171008T181001Z
+UID:75F9425A-EDCE-407E-9C4B-E32B2CFBDAF2
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/futurology_joao-ca
+ rreiro.md
+CREATED:20170903T002136Z
+DESCRIPTION:This is a talk about Futurology. Why it is important to underst
+ and the study of the futures\, where did Futurology came from and why it wo
+ n't matter anymore after 2053.\n\nI will introduce you to what I believe to
+  be the most important concepts to grasp about Futurology and you will unde
+ rstand why all the corporates are going crazy about innovation and open inn
+ ovation.\n\nThe talk will also touch base with some of the amazing changes 
+ happening in our world today and how will they impact our tech future.\n\nS
+ o if innovation is important to you\, you have a tech startup or you just w
+ ant to change the world with technology came and discuss the future with us
+ .\n\n[speaker: João Carreiro\, https://pixels.camp/jhacarreiro]\n[language:
+  English]
+LAST-MODIFIED:20170915T132753Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Futurology
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T110000Z
+DTEND:20170930T120000Z
+DTSTAMP:20171008T181001Z
+UID:228B989C-D4B2-470C-8B08-DF8DE01DC2F0
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/a-skynet-office-or
+ -smth_fernando-mendes.md
+CREATED:20170829T094748Z
+DESCRIPTION:... or how I over-engineered a bunch of sensors.\n\nI spent the
+  last year working on a smart office. But this wasn't going to be just any 
+ smart office. It had to be capable of doing everything. And also anything .
+  And it had to be distributed . And handle big data . And work offline . An
+ d support DIY stuff . And buzzwords. Also\, it had to be cool and hip and r
+ un on Elixir .\n\nThe adventure begins when I wanted to optimise the produc
+ tivity of our office at Subvisual by managing environmental values: tempera
+ ture\, humidity\, sound levels and lighting. My first goal was to constantl
+ y display those readings and warn us if any of them was sub-optimal. I some
+ how got sidetracked and ended up with a P2P network in a distributed archit
+ ecture or smth.\n\nIn this talk\, I'll go through the implementation of a d
+ istributed architecture for a smart office. We will figure out how to conne
+ ct Raspberries\, Beaglebones and what not. Then go through distributed syst
+ ems stuff like figure out if we want a server or P2P protocols and how to u
+ se eventual consistency. We'll get to know how to modify the P2P network to
+  add any custom DIY node\, but we'll mostly end up by collectively shaming 
+ myself for tapping into my developer's heart and pulling out what's at its 
+ core: a bunch of not-so-brilliant\, over-engineered ideas.\n\n[speaker: Fer
+ nando Mendes\, https://pixels.camp/fribmendes]\n[language: English]
+LAST-MODIFIED:20170915T132745Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A skynet office framework or smth
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T090000Z
+DTEND:20170930T100000Z
+DTSTAMP:20171008T181001Z
+UID:BCA97B3F-24B9-4E07-A3C0-64448FB14C13
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/privacy-and-securi
+ ty-in-iot_vasco-veloso.md
+CREATED:20170828T144029Z
+DESCRIPTION:We will go through an overview of security and privacy challeng
+ es that must be faced and solved when creating new Things for the Internet 
+ of Things. We will discuss why are Things inherently insecure together with
+  examples of attack vectors and learn some risk mitigation strategies. We w
+ ill realize why should users be wary of Things violating their privacy and 
+ will gain awareness of upcoming EU privacy legislation that affects provide
+ rs of IoT-based solutions.\n\n[speaker: Vasco Veloso\, https://pixels.camp/
+ vveloso]\n[language: English]
+LAST-MODIFIED:20170915T132707Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Privacy and Security in IoT
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T170000Z
+DTEND:20170929T180000Z
+DTSTAMP:20171008T181001Z
+UID:BA060A4A-2FDE-4955-8A69-1FE151398167
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/ECMAScript-underst
+ anding-how-js-evolves_daniela-matos-de-carvalho.md
+CREATED:20170902T142443Z
+DESCRIPTION:We already use most of the features in ES6\, but do we know wha
+ t’s coming next?\n\nThis talk will drive you to understanding ECMAScript an
+ d how a feature goes from one stage to another: we will take a look into wh
+ at features are coming next in JavaScript\, and how can we test those using
+  transpilers such as Babel.\n\nWe will also try to understand what are the 
+ main influencers for new feature proposals and how both back-end (Node.js) 
+ and front-end influences that.\n\n[speaker: Daniela Matos de Carvalho\, htt
+ ps://pixels.camp/sericaia]\n[language: English]
+LAST-MODIFIED:20170915T132453Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ECMAScript: Understanding how JS evolves
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T170000Z
+DTEND:20170929T180000Z
+DTSTAMP:20171008T181001Z
+UID:B9B21723-CFE7-4227-A7DD-7BFA2540F16E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/building-immutable
+ -servers-with-packer-and-ansible.md
+CREATED:20170905T234348Z
+DESCRIPTION:Is Continuous Deployment familiar to you? Have you struggled wi
+ th automated deploys?\n\nPacker is a powerful tool to create machine images
+  in parallel for multiple platforms. It takes advantage of the power of con
+ figuration management tools like Ansible to provision those machines and to
+  produce Immutable Servers that simplify the building and deployment proces
+ ses of continuous deployment.\n\nTo show how these tools can be put togethe
+ r\, over the course of the presentation I will explain how Packer works and
+  how to create the configuration file that will be used to bake the machine
+  images\, we will then see how we can provision those machines using Ansibl
+ e to install the necessary software to run your applications.\n\n[speaker: 
+ Daniel Gomes\, https://pixels.camp/dcsg]\n[language: English]
+LAST-MODIFIED:20170915T132442Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Building Immutable Servers with Packer and Ansible
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T160000Z
+DTEND:20170929T170000Z
+DTSTAMP:20171008T181001Z
+UID:F19D07A9-E385-4120-B0A7-1B2B74790779
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/introduction-to-ru
+ st_tiago-farto.md
+CREATED:20170910T224346Z
+DESCRIPTION:Rust is awesome\, and if you're coding you should (probably) le
+ arn it. Rust can be as powerful as C\, and as safe as... stuff. I like rust
+ \, and so should you! I'll try to give a short introduction to rust\, expla
+ in why I like it\, and how I started learning it. My idea is to write somet
+ hing a little bit more complex than an hello world\, maybe fill some struct
+ s\, save a file or something\, link some external code... live coding\, lik
+ e people do now on the internet\, but LIVEEEEEEEEEEEEE in flesh and bones (
+ mostly skin\, though)!\n\n[speaker: Tiago Farto\, https://pixels.camp/xerno
+ byl]\n[language: English]
+LAST-MODIFIED:20170915T132423Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Introduction to Rust
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T160000Z
+DTEND:20170929T170000Z
+DTSTAMP:20171008T181001Z
+UID:EFECDE36-C4BA-4438-B8C4-CDAC98F22B4A
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/high-availability-
+ legacy-stuff-10000ft-overview_marco-amado.md
+CREATED:20170822T154410Z
+DESCRIPTION:Suddenly\, with no apparent reason\, there are 200 visits on a 
+ single day. The next day\, 2000. The hoster emails you frantically (hey\, a
+ t least he didn't just cut your hosting). You cave and upgrade for a VPS. T
+ he next day\, you have 20 visits - per second. At the end of the week\, 100
+ . You go for a quad-core\, 16GiB private server. The visits keep climbing\,
+  and next is a dual octa-core Xeons\, 64GiB. You realize you're getting to 
+ a point where a 10% improvement costs you 50% more. This should be rewritte
+ n into a high-availability\, load-balanced\, multi-machine setup. Maybe in 
+ a shiny new stack\, to the likes of MEAN\, something with Rails or even Eli
+ xir\, like that new product that you launched a few months back.\n\nIn this
+  talk\, I'll give you an overview of the tools and tricks you could use to 
+ turn that big pile of... Apache\, PHP\, and MariaDB into an awesome high-av
+ ailability\, load balanced\, shiny new pile of... Apache\, PHP\, and MariaD
+ B. Zero\, or almost zero changes to the codebase.\n\n[speaker: Marco Amado\
+ , https://pixels.camp/mjamado]\n[language: English]
+LAST-MODIFIED:20170915T132416Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:High Availability Architecture for Legacy Stuff - a 10.000 feet ove
+ rview
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T140000Z
+DTEND:20170929T150000Z
+DTSTAMP:20171008T181001Z
+UID:DAD99163-01ED-43DA-922F-16455E9688D9
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/a-pinch-of-functio
+ nal-on-the-clients-plate_sasha-fonseca.md
+CREATED:20170828T172704Z
+DESCRIPTION:Functional programming alongside lambda calculus\, immutability
+ \, and static type checking are all hot topics which appear on many softwar
+ e development circles. The rising trend of such a paradigm for backend deve
+ lopment has leaked into the frontend and has made several languages based o
+ n it emerge.\n\nThe Elm programming language is part of this new set of lan
+ guages aimed for the presentation layer. Elm - based on Haskell - makes use
+  of these ideas in order to equip the programmer with extraordinary develop
+ ment powers. The language compiles to Javascript and aims to offer zero run
+ time exceptions\, great performance due to its own Virtual DOM implementati
+ on\, and extreme confidence in refactorings.\n\nIn this talk I'll present t
+ he language from the viewpoint of someone experienced in this paradigm but 
+ also as a beginner to the client side of things.\n\n[speaker: Sasha Fonseca
+ \, https://pixels.camp/sashaafm]\n[language: English]
+LAST-MODIFIED:20170915T132302Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A Pinch of Functional on the Client's Plate
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T140000Z
+DTEND:20170929T150000Z
+DTSTAMP:20171008T181001Z
+UID:32D06648-0646-4EF4-8597-01D8734A99FC
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/a-brief-and-person
+ al-history-of-the-software-development-process_joao-malcata.md
+CREATED:20170910T213353Z
+DESCRIPTION:Over almost 20 years\, I have been involved in a multitude of s
+ oftware development endeavors. Out of sheer luck or just time passing\, tog
+ ether they seem to show an “evolution“ worth sharing. Even if not systemati
+ c and according to a scientific process\, experience does provide insight a
+ nd I hope lessons to be learned.\n\nBy the end of the session\, you will be
+  able to give some meaning to:\n\n- Where do you stand\, as far as\, the de
+ velopment process is concerned\n- What you feel would be the optimal scenar
+ io to unlock your potential\n\n[speaker: João Malcata\, https://pixels.camp
+ /malcata]\n[language: English]
+LAST-MODIFIED:20170915T132256Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A brief and personal history of the software development process
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T130000Z
+DTEND:20170929T140000Z
+DTSTAMP:20171008T181001Z
+UID:A3DA4CCA-4CDA-416F-AC9B-B80EDDED90F1
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/no-cpu-cycle-goes-
+ wasted_paulo-lopes.md
+CREATED:20170821T170414Z
+DESCRIPTION:Reactive is the new black\, Everyone talks about it\, everyone 
+ wants it! However the definition is quite fuzzy\, what does it mean? Reacti
+ ve Programming? Reactive Systems? Functional Reactive Programming?\n\nIn th
+ is talk I will focus on the first two: Reactive Programming and Reactive Sy
+ stems. Reactive programming has become mainstream in the JavaScript communi
+ ty\, both on the server side with NodeJS as well on the frontend side with 
+ React.js. Finally it is catching up on the Java community with Vert.x and S
+ pring 5. But are all these platforms\, reactive systems? The answer is: No!
+  We will demystify the differences and tear down false believes!\n\nThis ta
+ lk is not for the faint of hear! Be prepared to see your stack being put to
+  the test and perhaps it will prevail!\n\n[speaker: Paulo Lopes\, https://p
+ ixels.camp/pmlopes]\n[language: English]
+LAST-MODIFIED:20170915T132241Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:No CPU cycle goes wasted!
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T130000Z
+DTEND:20170929T140000Z
+DTSTAMP:20171008T181001Z
+UID:06AD212E-5A26-4AC0-9C47-A580C0458DD1
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/monoliths-are-your
+ -friends-most-of-the-times_nizar-venturini.md
+CREATED:20170822T143746Z
+DESCRIPTION:It's starting to become common knowledge that Microservices app
+ roach to systems architecture is the way to go. This is insanely dangerous 
+ and most of the times you're actually much better served with a glorified a
+ nd well structured monolith instead. In this talk I'll try to bring some se
+ nse to the microservices craze by killing some myths around Monoliths\, exp
+ osing the hardships of a Microservices oriented architecture and providing 
+ some tips on when should you start thinking about breaking your monolith up
+ . Microservices bandwagon party goers\, let's talk for a few minutes.\n\n[s
+ peaker: Nizar Venturini\, https://pixels.camp/trenpixster]\n[language: Engl
+ ish]
+LAST-MODIFIED:20170915T132236Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monoliths are your friends (most of the times)
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T130000Z
+DTEND:20170929T140000Z
+DTSTAMP:20171008T181001Z
+UID:8B8730D6-5C99-4B11-8852-AB7E78430926
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/agile-roadtrip_dav
+ id-cordeiro_nuno-pereira.md
+CREATED:20170910T191631Z
+DESCRIPTION:Want to know how your backlog can define the "why" and the "wha
+ t"\, but leave the "how" for the development team? Join us in this roadtrip
+  where you'll also learn how to incorporate feedback and effectively drive 
+ your team using the backlog through a very simple analogy.\n\n[speaker: Dav
+ id Silva Cordeiro\, https://pixels.camp/davidscordeiro]\n[speaker: Nuno Sil
+ va Pereira\, https://pixels.camp/nunoaspereira]\n[language: English]
+LAST-MODIFIED:20170915T132228Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Agile roadtrip
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T110000Z
+DTEND:20170929T120000Z
+DTSTAMP:20171008T181001Z
+UID:3BAB14A5-4621-4309-8C0B-8981E67E427E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/tensorflow-and-thi
+ ngs_bernardo-vieira.md
+CREATED:20170910T205149Z
+DESCRIPTION:You know tensorflow but never used ? Or perhaps you don't even 
+ know ?\n\nTensorflow is being one of the most used machine learning systems
+  and it's possible to do anything you can imagine\, since a simple code tha
+ t recognize 4bits patterns to build music tracks. It's insanely awesome.\n\
+ nJoin this talk to learn a little bit about how tensorflow works\, learn so
+ me methods\, build a basic number and character recognition system\, use te
+ nsorboard and see what else we can do with this amazing system.\n\n\n\n[spe
+ aker: Bernardo Vieira\, https://pixels.camp/obernardovieira]\n[language: En
+ glish]
+LAST-MODIFIED:20170915T132216Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TensorFlow and things
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T110000Z
+DTEND:20170929T120000Z
+DTSTAMP:20171008T181001Z
+UID:4948B59C-7E8E-448C-BE11-C68E0C0F20DF
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/purpose-of-program
+ ming-clojure-nirvana.md
+CREATED:20170829T105717Z
+DESCRIPTION:As a data engineer\, part of my job is to find the best ways to
+  transform and work with data. During this path\, I’ve come across with Clo
+ jure. Clojure opened my mind in the way I approach the development of softw
+ are and it made me question many of my dogmas (e.g. Object Oriented Program
+ ming). My purpose for this talk is to share those findings with you. These 
+ include (but are not limited to):\n\n- software programs can be modeled as 
+ transducers\;\n- the implicit context and complexity of object orientation\
+ ;\n- mutation of state\, the root of all evil\;\n- functional programming b
+ oosts productivity and confidence\n- Clojure opens the mind to new ways of 
+ testing\n- functional programs are a lot easier to scale and the industry i
+ s moving in that direction (e.g just take a look into Java 8 and 9)\n\n[spe
+ aker: João Vasques\, https://pixels.camp/JoaoVasques]\n[language: English]
+LAST-MODIFIED:20170915T132212Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Purpose of programming and the Clojure Nirvana
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T100000Z
+DTEND:20170929T120000Z
+DTSTAMP:20171008T181001Z
+UID:4B08A5EC-5529-4D86-97F1-12D69E48A05E
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/going-big-with-pan
+ das_alexandre-carvalho.md
+CREATED:20170903T002713Z
+DESCRIPTION:This is a Workshop to explore BIG Data using python pandas and 
+ other tools (or how to efficiently deal with lots of data in a laptop) The 
+ keyword of the workshop will be: efficiency\n\npandas is an open source\, B
+ SD-licensed library providing high-performance\, easy-to-use data structure
+ s and data analysis tools for the Python programming language. It's being w
+ idely used by scientists across multiple fields.\n\nIf you want a hands-on 
+ experience on how to use pandas\, and how it can befit you\, this is the wo
+ rkshop to go! I've used it to cleanup data\, transform it\, and create each
+  user anonymized profile. Later it was also easy to process profile based r
+ ecommendations\, where I would score 10k items on a laptop in under 60ms.\n
+ \nWe're going to explore the basic API's of pandas to do in memory transfor
+ mation\, filter\, groups\, joins\, etc... In the process we will learn abou
+ t jupyter notebooks which are also being used in science not only to do tri
+ al and errors\, but also to share the results and how they were achieved\, 
+ enabling repeatability.\n\nFor the workshop we will process generated data 
+ for a possible EPG and Activity Log (each attendant will generate their own
+  data\, so no repeatability here :D ). We will then extract data from the l
+ og\, and process it. In the end of the workshop we should be able to give i
+ tem to item recommendations based on what people watched...\n\n[speaker: Al
+ exandre Carvalho\, https://pixels.camp/ajscarvalho]\n[language: English]\n[
+ workshop: true]
+LAST-MODIFIED:20170915T132130Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Going BIG with Pandas
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T090000Z
+DTEND:20170929T100000Z
+DTSTAMP:20171008T181001Z
+UID:D7322994-3451-4F6F-B04B-E7E50EF32BAD
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/the-backstory-of-a
+ pp-connect_tiago-sousa.md
+CREATED:20170825T105754Z
+DESCRIPTION:Last April\, Talkdesk unveiled a new marketplace for applicatio
+ ns built on top of Talkdesk's data and core platform: https://developers.ta
+ lkdesk.com\n\nThe goal of this talk is to go through the untold story of en
+ gineering challenges and the evolution of an idea for a platform\; through 
+ a series of challenges\, trade-offs and binding decisions\, an engineering 
+ team worked towards a common goal: build a stable foundation where others c
+ an be productive and create value.\n\nIt will focus on the following:\n\n- 
+ Initial architectural goals: disentangle responsabilities from a monolith w
+ hile empowering a crescendo of internal teams and why this matters.\n- Firs
+ t iterations: achieved goals vs missing promises\, let's talk about both.\n
+ - A public API: the idea of an MVP we can stand for.\n- Working as a team: 
+ how to deliver value for multiple stakeholders on a tight deadline\, collab
+ orate and work effectively as a team.\n\n[speaker: Tiago Sousa\, https://pi
+ xels.camp/tjsousa]\n[language: English]
+LAST-MODIFIED:20170915T132120Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The backstory on AppConnect
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T180000Z
+DTEND:20170928T220000Z
+DTSTAMP:20171008T181001Z
+UID:6A9B8D8D-2419-4854-AE7D-6CA1ADD085DD
+CREATED:20170829T112143Z
+DESCRIPTION:
+LAST-MODIFIED:20170915T132055Z
+LOCATION:Segfault Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Security CTF
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T170000Z
+DTEND:20170928T180000Z
+DTSTAMP:20171008T181001Z
+UID:932616AD-D071-4714-ABE4-2F94F2555E2A
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/react-natively_joa
+ o-anes.md
+CREATED:20170902T121946Z
+DESCRIPTION:So you've been tasked with the development of your company's ne
+ w mobile app\, which has to be the bee's knees as a major requirement: it h
+ as to use GPS\, the camera\, push notifications\, them sweet\, sweet 60FPS 
+ animations and all those other native doo-dads that must make your users ov
+ erjoyed with delight. The only problem? You have a small team\, limited res
+ ources\, a multiplatform requirement and a veeeery limited timeframe. Oh\, 
+ and not everyone on the team has mobile experience. Abandon ship\, right?\n
+ \nEnter React Native\, the new kid on the block. Built by the giant Faceboo
+ k\, it's the little mobile development framework that could replace all oth
+ er approaches to mobile development in our near future! Join us as we find 
+ out if it really can or not in our little talk\, as we go over the small hi
+ story of React Native\, where it comes from\, how native it is\, where it w
+ ants to go to\, where React fits in and\, perhaps most importantly\, what y
+ ou can do with it right now!\n\n[speaker: João Anes\, https://pixels.camp/j
+ oaoanes]\n[language: English]
+LAST-MODIFIED:20170915T131853Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:React Natively - multiplatform development done better
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T160000Z
+DTEND:20170928T170000Z
+DTSTAMP:20171008T181001Z
+UID:95C99755-4E9B-4CA1-AD9A-1E6C8ECDC8A1
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/microservices-with
+ out-services_james-thomas.md
+CREATED:20170822T113309Z
+DESCRIPTION:Servers are killing your productivity. Rather than building bet
+ ter software for your users\, you end up constantly distracted by maintaini
+ ng computers. Wasn't the "cloud" supposed to fix this? It sounded so promis
+ ing until we realised it was just renting VMs in someone else's datacenter.
+  We couldn't escape "servers". Until now...\n\nIn this session\, developers
+  will learn how to build microservices without servers\, using modern “serv
+ erless” cloud platforms. We’ll look at common challenges (and solutions) to
+  building applications using “serverless” stacks. Exploring emerging “serve
+ rless” design patterns will give developers the knowledge to build applicat
+ ion architectures using these new platforms.\n\nThis session is aimed at so
+ ftware developers experienced in building traditional backend web applicati
+ ons\, who want to learn how to build microservices managing infrastructure.
+ \n\n[speaker: James Thomas\, https://pixels.camp/jthomas]\n[language: Engli
+ sh]
+LAST-MODIFIED:20170915T131827Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Microservices Without Servers
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T150000Z
+DTEND:20170928T160000Z
+DTSTAMP:20171008T181001Z
+UID:B7220FFF-4B81-415D-8648-FB5F38B894E8
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/how-can-javascript
+ -improve-your-css-mixins_sandrina_pereira.md
+CREATED:20170822T112301Z
+DESCRIPTION:Open a new window of possibilities to CSS: Faster compilation t
+ ime\, advanced logic\, better styles scalability with Unit Testing and more
+ .\n\nHow can we use Javascript in order to improve CSS? PostCSS brings a ne
+ w window of possibilities with Javascript. So let's start by bringing Unit 
+ Testing to the table! Let's have a fast compilation time\, a prettier and m
+ ore advanced logic than @if | @for\, etc..\, access to values outside the C
+ SS files\, and much more! Let's put your CSS to the test!\n\n[speaker: Sand
+ rina Pereira\, https://pixels.camp/sandrina-p]\n[language: English]
+LAST-MODIFIED:20170915T131802Z
+LOCATION:NOS Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How can Javascript improve your CSS Mixins
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T150000Z
+DTEND:20170928T160000Z
+DTSTAMP:20171008T181001Z
+UID:6F98F79E-7C95-40FA-9A01-54153E0A4D07
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/frida_all_the_thin
+ gs-herman_duarte.md
+CREATED:20170822T112821Z
+DESCRIPTION:Frida is an awesome RE tool that allows one to be inside the bl
+ ackbox with a front row view of the show. It works in iOS\, Android\, Mac O
+ S\, Windows\, Linux and QNX. So basically almost everywhere. In this talk w
+ ill go from zero to hero\, from knowing nothing about frida into having it 
+ working for us and enabling us to reverse engineer an iOS application with 
+ ease. I'll be talking also a little bit of how things work under the hood i
+ n frida. If you like RE and dynamic analysis\, if you're a pentester\, or i
+ f you're into security and love low level stuff this talk is definitely for
+  you.\n\n[speaker: Herman Duarte\, https://pixels.camp/hduarte]\n[language:
+  English]
+LAST-MODIFIED:20170915T131757Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Frida All the Things
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T140000Z
+DTEND:20170928T150000Z
+DTSTAMP:20171008T181001Z
+UID:BFC896C2-6EF3-4943-B734-4062CF946BA0
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/what-the-heck-is-a
+ -product-manager_joao-craveiro.md
+CREATED:20170822T110403Z
+DESCRIPTION:This talk is for anyone who works with a product manager (if yo
+ u're here\, you most likely will at some point). It is also for anyone with
+  some other type of curiosity about the role. Do you (think you) want to be
+  a product manager? Are you a product manager confused about your own role 
+ (don't worry\, we've all been there)?\n\nDon't expect leaving with the trut
+ h\, because 1) there isn't one\, and 2) if there were I would not be the ho
+ lder of it. I'll be sharing what I know and think\, from my own experience 
+ and learning through doubts\, successes\, and failures. But you'll hopefull
+ y end up understanding the role better — either to make the most out of wor
+ king with the product managers in your organisation\, or to decide whether 
+ this is a career path you want to pursue.\n\n[speaker: João Craveiro\, http
+ s://pixels.camp/jpgcc]\n[language: English]
+LAST-MODIFIED:20170915T131742Z
+LOCATION:Workshops
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What the heck is a Product Manager?
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T140000Z
+DTEND:20170928T150000Z
+DTSTAMP:20171008T181001Z
+UID:CCAC4CAF-325D-4F80-BE50-F5EE5A973EB8
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/the-lord-of-the-as
+ ync_anze-pecar.md
+CREATED:20170821T164303Z
+DESCRIPTION:The talk will focus on the problem of blocking code. We will lo
+ ok into how you can speed up your app by going async and when it won't impr
+ ove performance at all. We will look at how different programming languages
+  help us deal with async code and mention some good and bad practices to ma
+ ke sure our async code is performant and readable.\n\n[speaker: Anže Pečar\
+ , https://pixels.camp/smotko]\n[language: English]
+LAST-MODIFIED:20170915T131734Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lord of the Async
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T140000Z
+DTEND:20170928T150000Z
+DTSTAMP:20171008T181001Z
+UID:B0575FF9-8651-405A-B17F-FF6AF7902FD6
+URL:https://github.com/PixelsCamp/talks/blob/master/2017/swift-do-you-even-
+ flux-afonso-graca.md
+CREATED:20170905T233951Z
+DESCRIPTION:In 2014\, Facebook brought us Flux and with it\, the idea of un
+ idirectional data flow. Allied with React\, Flux and its variations took th
+ e Web World by storm. Today's mobile apps also rely heavily on data handlin
+ g so why not apply the same principles to it?\n\nThis talk is aimed at the 
+ mobile community\, specifically the iOS community. It is supposed to be an 
+ intro to the unidirectional data flow pattern\, cover the basics of how to 
+ use Flux and Redux on iOS and share my experience in applying it to existin
+ g code\, its benefits and pitfalls.\n\n[speaker: Afonso Graça\, https://pix
+ els.camp/afonsograca]\n[language: English]
+LAST-MODIFIED:20170915T131729Z
+LOCATION:Beta-i Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Swift\, do you even Flux?
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T110000Z
+DTEND:20170928T120000Z
+DTSTAMP:20171008T181001Z
+UID:D790D942-F607-41EC-8094-9BDED9BF511D
+CREATED:20170912T150114Z
+DESCRIPTION:
+LAST-MODIFIED:20170915T103504Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Partners Elevator Pitches
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T090000Z
+DTEND:20170928T110000Z
+DTSTAMP:20171008T181001Z
+UID:60u6ton5mqummoap4ajflqjse5@google.com
+CREATED:20170712T180016Z
+DESCRIPTION:Welcome notes and general rules about Pixels Camp. Important ac
+ tivities explained. Big announcements for this year's edition. And a surpri
+ se or two\, who knows.\n\n[language: English]
+LAST-MODIFIED:20170720T152045Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening Keynotes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T140000Z
+DTEND:20170930T163000Z
+DTSTAMP:20171008T181001Z
+UID:C2EB5348-5C9E-4587-846F-911DC199E1FA
+CREATED:20170712T180716Z
+DESCRIPTION:
+LAST-MODIFIED:20170712T180732Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Final Projects Presentations
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T130000Z
+DTEND:20170930T140000Z
+DTSTAMP:20171008T181001Z
+UID:56181A41-5E48-4C62-B2BD-10E2F3FABB91
+CREATED:20170712T180653Z
+DESCRIPTION:
+LAST-MODIFIED:20170712T180709Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stage tests for final presentations
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T210000Z
+DTEND:20170929T220000Z
+DTSTAMP:20171008T181001Z
+UID:F0C02F53-7058-4F47-9A72-ACC18555A15E
+CREATED:20170712T180338Z
+DESCRIPTION:We call sixteen two player teams to come on stage and answer ge
+ neral knowledge (ahahahah) questions for precious points and a chance at th
+ e grand final. The four champion teams (one from each round) will face each
+  other on a speed and knowledge free for all.\n\n[language: English]
+LAST-MODIFIED:20170712T180404Z
+LOCATION:Bright Pixel Stage
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Quiz Show
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+END:VCALENDAR

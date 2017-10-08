@@ -1,2 +1,2 @@
-# calendar
-mluis's calendars of interest
+# mluis's singularity
+singularities of interest
